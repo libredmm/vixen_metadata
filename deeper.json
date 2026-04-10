@@ -1,6 +1,129 @@
 [
   {
     "node": {
+      "id": "deeper:attention-imbalance",
+      "videoId": "106396",
+      "title": "Attention Imbalance",
+      "slug": "attention-imbalance",
+      "site": "deeper",
+      "expertReview": {
+        "global": 8.607142857142858,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-04-09T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Lola Fae",
+          "slugged": "lola-fae",
+          "__typename": "Model"
+        },
+        {
+          "name": "Johnny Goodluck",
+          "slugged": "johnny-goodluck",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106396/1774962512684/106396_jLo1GT7qLI6Fn7OvcdUJryndOcdOzozn5TaD2eAo4U0_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjM5Ni8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc1ODU5MDkxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=IhbYRJTtIGhqU8gcPo3M0zfBsmCH6oo0nhNIDJv9CXVvkSa-ZwmPR3qDx8n1sccqKEMmEvMBQ7LuUvPMkaWE7Ao-HNU0tsOl594DQF42dJxeSi7XJNnpEVoWV~IQPY1r8RO6TgqOpVd7u8vqqe2kZQsYnIo32l5G2kKRxAfZj2BNz1jLjeExKXxwvnjLbjRav~Pn4x9~~n-jfqTuhjCWvel5TNBSIH2erCbO0kbWThZZSH6L5eTAR3ny3tquhI47Z1ET8ET4O8txJ2CDEo37P~fZmqlTGGvry-QNe-wN91e6oQWmZcK6z761qMyuzfWSb-xTein-elaNtiO4y4gy9Q__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106396/1774962512683/106396_jLo1GT7qLI6Fn7OvcdUJryndOcdOzozn5TaD2eAo4U0_180P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjM5Ni8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc1ODU5MDkxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=IhbYRJTtIGhqU8gcPo3M0zfBsmCH6oo0nhNIDJv9CXVvkSa-ZwmPR3qDx8n1sccqKEMmEvMBQ7LuUvPMkaWE7Ao-HNU0tsOl594DQF42dJxeSi7XJNnpEVoWV~IQPY1r8RO6TgqOpVd7u8vqqe2kZQsYnIo32l5G2kKRxAfZj2BNz1jLjeExKXxwvnjLbjRav~Pn4x9~~n-jfqTuhjCWvel5TNBSIH2erCbO0kbWThZZSH6L5eTAR3ny3tquhI47Z1ET8ET4O8txJ2CDEo37P~fZmqlTGGvry-QNe-wN91e6oQWmZcK6z761qMyuzfWSb-xTein-elaNtiO4y4gy9Q__",
+            "width": 320,
+            "height": 180,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106396/1774962512683/106396_jLo1GT7qLI6Fn7OvcdUJryndOcdOzozn5TaD2eAo4U0_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjM5Ni8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc1ODU5MDkxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=IhbYRJTtIGhqU8gcPo3M0zfBsmCH6oo0nhNIDJv9CXVvkSa-ZwmPR3qDx8n1sccqKEMmEvMBQ7LuUvPMkaWE7Ao-HNU0tsOl594DQF42dJxeSi7XJNnpEVoWV~IQPY1r8RO6TgqOpVd7u8vqqe2kZQsYnIo32l5G2kKRxAfZj2BNz1jLjeExKXxwvnjLbjRav~Pn4x9~~n-jfqTuhjCWvel5TNBSIH2erCbO0kbWThZZSH6L5eTAR3ny3tquhI47Z1ET8ET4O8txJ2CDEo37P~fZmqlTGGvry-QNe-wN91e6oQWmZcK6z761qMyuzfWSb-xTein-elaNtiO4y4gy9Q__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106396/mainPortrait/1773665740799/deeper-attention-imbalance_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106396/mainPortrait/1773665740799/deeper-attention-imbalance_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106396/mainPortrait/1773665740799/deeper-attention-imbalance_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106396/mainPortrait/1773665740799/deeper-attention-imbalance_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106396/mainPortrait/1773665740799/deeper-attention-imbalance_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106396/mainPortrait/1773665740799/deeper-attention-imbalance_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_320x180.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_60x34_q85.jpeg",
+            "width": 320,
+            "height": 180,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_640x360.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_320x180.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_640x360.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106396/mainLandscape/1773665740892/deeper-attention-imbalance_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2OWNiYzZmY2VmZTZmNmI5MTA5NjU1YjUiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDQtMDlUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:hush-money",
       "videoId": "106395",
       "title": "Hush Money",
