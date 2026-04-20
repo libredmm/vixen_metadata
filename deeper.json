@@ -1,6 +1,257 @@
 [
   {
     "node": {
+      "id": "deeper:feature-dancer",
+      "videoId": "106451",
+      "title": "Feature Dancer",
+      "slug": "feature-dancer",
+      "site": "deeper",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-04-23T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Maddie Wren",
+          "slugged": "maddie-wren",
+          "__typename": "Model"
+        },
+        {
+          "name": "Jason Luv",
+          "slugged": "jason-luv",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106451/1776074441520/106451_q9tC0__xcgLBWCiBbAaRBL2ertVbpL2Dm9rIWp4Ww3Y_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjQ1MS8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2NzI3MTQxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=ERgMnWZm72jJvbLsasZjg-OibrUwrRSPoXoQlEccFdQsYGtrl1vgPimZPSMV~S~dnlgs3SxAHfcpWCLUHJqPW5-SVtybjJhdT7LA14gedUKni4GE29DAxDMvw3BzAHl1FgqjLHonsucnpFGQdJYbHQm-Z9NTd4TWofWmaNFw6KrkEGCPLfAmBhz0OhBH132Ws-k82wT0kBoQPz38n64nscZhdTzMt2TrBslFR3SzczBtdSLMwRlMTwEHQGq~-7dLf56kXq4mgCqGZAz75YptOYLtqYnOqQRxcqhq9j~pDhqfUIDsJgFMRVxyb-aPoqluduNZ58LnesKmvGQw-i7pVg__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106451/1776074441518/106451_q9tC0__xcgLBWCiBbAaRBL2ertVbpL2Dm9rIWp4Ww3Y_180P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjQ1MS8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2NzI3MTQxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=ERgMnWZm72jJvbLsasZjg-OibrUwrRSPoXoQlEccFdQsYGtrl1vgPimZPSMV~S~dnlgs3SxAHfcpWCLUHJqPW5-SVtybjJhdT7LA14gedUKni4GE29DAxDMvw3BzAHl1FgqjLHonsucnpFGQdJYbHQm-Z9NTd4TWofWmaNFw6KrkEGCPLfAmBhz0OhBH132Ws-k82wT0kBoQPz38n64nscZhdTzMt2TrBslFR3SzczBtdSLMwRlMTwEHQGq~-7dLf56kXq4mgCqGZAz75YptOYLtqYnOqQRxcqhq9j~pDhqfUIDsJgFMRVxyb-aPoqluduNZ58LnesKmvGQw-i7pVg__",
+            "width": 320,
+            "height": 180,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106451/1776074441518/106451_q9tC0__xcgLBWCiBbAaRBL2ertVbpL2Dm9rIWp4Ww3Y_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjQ1MS8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2NzI3MTQxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=ERgMnWZm72jJvbLsasZjg-OibrUwrRSPoXoQlEccFdQsYGtrl1vgPimZPSMV~S~dnlgs3SxAHfcpWCLUHJqPW5-SVtybjJhdT7LA14gedUKni4GE29DAxDMvw3BzAHl1FgqjLHonsucnpFGQdJYbHQm-Z9NTd4TWofWmaNFw6KrkEGCPLfAmBhz0OhBH132Ws-k82wT0kBoQPz38n64nscZhdTzMt2TrBslFR3SzczBtdSLMwRlMTwEHQGq~-7dLf56kXq4mgCqGZAz75YptOYLtqYnOqQRxcqhq9j~pDhqfUIDsJgFMRVxyb-aPoqluduNZ58LnesKmvGQw-i7pVg__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106451/mainPortrait/1775739701139/deeper-feature-dancer_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106451/mainPortrait/1775739701139/deeper-feature-dancer_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106451/mainPortrait/1775739701139/deeper-feature-dancer_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106451/mainPortrait/1775739701139/deeper-feature-dancer_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106451/mainPortrait/1775739701139/deeper-feature-dancer_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106451/mainPortrait/1775739701139/deeper-feature-dancer_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_320x180.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_60x34_q85.jpeg",
+            "width": 320,
+            "height": 180,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_640x360.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_320x180.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_640x360.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106451/mainLandscape/1775739701234/deeper-feature-dancer_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2OWRjYmU5ZGYwYWJjMGM5OTQ5ZTY3ODkiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDQtMjNUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
+      "id": "deeper:blackout",
+      "videoId": "106418",
+      "title": "Blackout",
+      "slug": "blackout",
+      "site": "deeper",
+      "expertReview": {
+        "global": 8.984126984126984,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-04-16T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Daisy Pheonix",
+          "slugged": "daisy-pheonix",
+          "__typename": "Model"
+        },
+        {
+          "name": "Parker Ambrose",
+          "slugged": "parker-ambrose",
+          "__typename": "Model"
+        },
+        {
+          "name": "Hollywood Cash",
+          "slugged": "hollywood-cash",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106418/1775024339476/106418_otrGFdwXPEvGaO2inXC1cqr6h7QIM5kv7MYav2VwX1U_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjQxOC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2NzI3MTQxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=NXF5P--nCofyckINSdFx4~ixaonFYKG0fHwRDiGRyzVrbUpFkghQZOi4Jrm~A5nqd5bmYmpWW5XjG8a5yA1NqtFUxDDFsW4BGFHGw9~2h~Sf~ztKehHiFhyL2O8YnjLaIU6v8zV81ChG~TGFYV5kr4sQq6nPxLQOJkOTReEZ8RdSfyF1McHaxYWaiKDIOvgJaEiIgRhHwwuxMNt-1RlmoKBQJ-mPwah-UD~9EoGtZoPtO-p6zgoalWVJQ2zR722jGkV6UDR52GSUg2-5Qcd-7Mf-HLubKKBQa0SK2Ojjiv1xV1cCPc3JKng4nmB8MIjBxrgV1iJ4jWzT91Sc4T~LWA__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106418/1775024339474/106418_otrGFdwXPEvGaO2inXC1cqr6h7QIM5kv7MYav2VwX1U_180P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjQxOC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2NzI3MTQxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=NXF5P--nCofyckINSdFx4~ixaonFYKG0fHwRDiGRyzVrbUpFkghQZOi4Jrm~A5nqd5bmYmpWW5XjG8a5yA1NqtFUxDDFsW4BGFHGw9~2h~Sf~ztKehHiFhyL2O8YnjLaIU6v8zV81ChG~TGFYV5kr4sQq6nPxLQOJkOTReEZ8RdSfyF1McHaxYWaiKDIOvgJaEiIgRhHwwuxMNt-1RlmoKBQJ-mPwah-UD~9EoGtZoPtO-p6zgoalWVJQ2zR722jGkV6UDR52GSUg2-5Qcd-7Mf-HLubKKBQa0SK2Ojjiv1xV1cCPc3JKng4nmB8MIjBxrgV1iJ4jWzT91Sc4T~LWA__",
+            "width": 320,
+            "height": 180,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/106418/1775024339474/106418_otrGFdwXPEvGaO2inXC1cqr6h7QIM5kv7MYav2VwX1U_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjQxOC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc2NzI3MTQxfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=NXF5P--nCofyckINSdFx4~ixaonFYKG0fHwRDiGRyzVrbUpFkghQZOi4Jrm~A5nqd5bmYmpWW5XjG8a5yA1NqtFUxDDFsW4BGFHGw9~2h~Sf~ztKehHiFhyL2O8YnjLaIU6v8zV81ChG~TGFYV5kr4sQq6nPxLQOJkOTReEZ8RdSfyF1McHaxYWaiKDIOvgJaEiIgRhHwwuxMNt-1RlmoKBQJ-mPwah-UD~9EoGtZoPtO-p6zgoalWVJQ2zR722jGkV6UDR52GSUg2-5Qcd-7Mf-HLubKKBQa0SK2Ojjiv1xV1cCPc3JKng4nmB8MIjBxrgV1iJ4jWzT91Sc4T~LWA__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106418/mainPortrait/1775024159625/deeper-blackout_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106418/mainPortrait/1775024159625/deeper-blackout_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106418/mainPortrait/1775024159625/deeper-blackout_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106418/mainPortrait/1775024159625/deeper-blackout_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106418/mainPortrait/1775024159625/deeper-blackout_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106418/mainPortrait/1775024159625/deeper-blackout_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_320x180.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_60x34_q85.jpeg",
+            "width": 320,
+            "height": 180,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_640x360.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_320x180.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_640x360.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/106418/mainLandscape/1775024159654/deeper-blackout_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2OWNjYjhhZWVmZTZmNmI5MTA3Mzk3YjAiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDQtMTZUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:attention-imbalance",
       "videoId": "106396",
       "title": "Attention Imbalance",
