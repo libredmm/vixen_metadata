@@ -1,6 +1,112 @@
 [
   {
     "node": {
+      "id": "slayed:sun-soaked-beauties-share-a-wet-foursome",
+      "videoId": "106493",
+      "title": "Sun-Soaked Beauties Share A Wet Foursome",
+      "slug": "sun-soaked-beauties-share-a-wet-foursome",
+      "site": "slayed",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-05-19T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Kelsi Monroe",
+          "slugged": "kelsi-monroe",
+          "__typename": "Model"
+        },
+        {
+          "name": "Vanna Bardot",
+          "slugged": "vanna-bardot",
+          "__typename": "Model"
+        },
+        {
+          "name": "Liz Jordan",
+          "slugged": "liz-jordan",
+          "__typename": "Model"
+        },
+        {
+          "name": "Olivia Jay",
+          "slugged": "olivia-jay",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.slayed.com/previewvideos/106493/1777278168023/106493_6O7lUOkNvB5z5_oOEsWqAav_EhDR531DS2BkSVcHfMw_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uc2xheWVkLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjQ5My8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MTM4NTMwfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=cwpsEvgn8fZWw1M~hn7lcx5UcXTe4fNjcDIfYWVeatqCDeUHZ016cr3UGK3Mh7UPSMg-CRohdfYNrVOiPP7MouefSogfVh2Z2LO9fCRhwrFE~hAy26YsmZKxw9CsnDb-7JgciaOSHT96BSi3Yg1B0em1igSGAjWYoXIH0Jyj1AKmZ~zhy54eyGIuVkiZb4xlLXQsmp7vhy3y6LTodAc5If3xBGCpzX05vKGAe2hThBe2suXd-OpgjZ4mAISKhvL4pK8HDL9E3NfZIJ8QW0K9VWWjNXsCt-5Apmgx6S6NuxxL4XCX0nkqEYmCU4Uv3DccDtfErBa1Q89ygxMb1BiOHQ__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.slayed.com/previewvideos/106493/1777278168023/106493_6O7lUOkNvB5z5_oOEsWqAav_EhDR531DS2BkSVcHfMw_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uc2xheWVkLmNvbS9wcmV2aWV3dmlkZW9zLzEwNjQ5My8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MTM4NTMwfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=cwpsEvgn8fZWw1M~hn7lcx5UcXTe4fNjcDIfYWVeatqCDeUHZ016cr3UGK3Mh7UPSMg-CRohdfYNrVOiPP7MouefSogfVh2Z2LO9fCRhwrFE~hAy26YsmZKxw9CsnDb-7JgciaOSHT96BSi3Yg1B0em1igSGAjWYoXIH0Jyj1AKmZ~zhy54eyGIuVkiZb4xlLXQsmp7vhy3y6LTodAc5If3xBGCpzX05vKGAe2hThBe2suXd-OpgjZ4mAISKhvL4pK8HDL9E3NfZIJ8QW0K9VWWjNXsCt-5Apmgx6S6NuxxL4XCX0nkqEYmCU4Uv3DccDtfErBa1Q89ygxMb1BiOHQ__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.slayed.com/scene/videoimages/106493/mainPortrait/1777273619471/slayed-082424-ki-mon_320x362.jpeg",
+            "placeholder": "https://cdn.slayed.com/scene/videoimages/106493/mainPortrait/1777273619471/slayed-082424-ki-mon_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.slayed.com/scene/videoimages/106493/mainPortrait/1777273619471/slayed-082424-ki-mon_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.slayed.com/scene/videoimages/106493/mainPortrait/1777273619471/slayed-082424-ki-mon_320x362.webp",
+              "placeholder": "https://cdn.slayed.com/scene/videoimages/106493/mainPortrait/1777273619471/slayed-082424-ki-mon_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.slayed.com/scene/videoimages/106493/mainPortrait/1777273619471/slayed-082424-ki-mon_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.slayed.com/scene/videoimages/106493/mainLandscape/1777273619496/slayed-082424-ki-mon_628x352.jpeg",
+            "placeholder": "https://cdn.slayed.com/scene/videoimages/106493/mainLandscape/1777273619496/slayed-082424-ki-mon_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.slayed.com/scene/videoimages/106493/mainLandscape/1777273619496/slayed-082424-ki-mon_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.slayed.com/scene/videoimages/106493/mainLandscape/1777273619496/slayed-082424-ki-mon_628x352.webp",
+              "placeholder": "https://cdn.slayed.com/scene/videoimages/106493/mainLandscape/1777273619496/slayed-082424-ki-mon_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.slayed.com/scene/videoimages/106493/mainLandscape/1777273619496/slayed-082424-ki-mon_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2OWVmMWM5OGNhMWViMjk2YTcwYWRiOGYiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDUtMTlUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "slayed:perfect-petite-duo-scissor-fuck-their-wet-pussies",
       "videoId": "106442",
       "title": "Perfect Petite Duo Scissor Fuck Their Wet Pussies",
