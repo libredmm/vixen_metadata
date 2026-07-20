@@ -1,6 +1,107 @@
 [
   {
     "node": {
+      "id": "blackedraw:fiery-hot-raissa-double-teamed",
+      "videoId": "107136",
+      "title": "Fiery Hot Raissa Double Teamed",
+      "slug": "fiery-hot-raissa-double-teamed",
+      "site": "blackedraw",
+      "expertReview": {
+        "global": 7.8,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-07-20T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Raissa Bellini",
+          "slugged": "raissa-bellini",
+          "__typename": "Model"
+        },
+        {
+          "name": "Hollywood Cash",
+          "slugged": "hollywood-cash",
+          "__typename": "Model"
+        },
+        {
+          "name": "Isiah Maxwell",
+          "slugged": "isiah-maxwell",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blackedraw.com/previewvideos/107136/1784106459099/107136_kbUg0CTjlCyyyjvraSY3cIP0zmwHcYhKMR_d6Cfqbhk_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZHJhdy5jb20vcHJldmlld3ZpZGVvcy8xMDcxMzYvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NDU4MzMyN319fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=DvLV8fAaKyhmzWEX4P98Kw1Bp88AnvN8vhCzmZYLQ52VBxuVkC9qS4A31ZJX-UNno3hiQk8eIdacKdM06k2pwWJrauuLwqcB5C-nYBdLzA91mHCi7WlGAYF~ZTwv6hxZbnDTjftBI3BAKmftvSrDNkIgUiSMjxZYOrFGNC8Ru44fmZvvymZXEWY9VCGtdoha5Yk2NwnGS2uyzIaA5d6fAqr6vFG6qRS1mlozy7FisJcsMxubtN7ZA1h-rlkdEPWVQ5gik1DbyBJOyAYMRUaMijjAEfIQn5I-JE9XW6sbjB3szNqryveYQnTruBrIIWTIYLl1Mv98fa8uwShGEZsrBA__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blackedraw.com/previewvideos/107136/1784106459098/107136_kbUg0CTjlCyyyjvraSY3cIP0zmwHcYhKMR_d6Cfqbhk_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZHJhdy5jb20vcHJldmlld3ZpZGVvcy8xMDcxMzYvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NDU4MzMyN319fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=DvLV8fAaKyhmzWEX4P98Kw1Bp88AnvN8vhCzmZYLQ52VBxuVkC9qS4A31ZJX-UNno3hiQk8eIdacKdM06k2pwWJrauuLwqcB5C-nYBdLzA91mHCi7WlGAYF~ZTwv6hxZbnDTjftBI3BAKmftvSrDNkIgUiSMjxZYOrFGNC8Ru44fmZvvymZXEWY9VCGtdoha5Yk2NwnGS2uyzIaA5d6fAqr6vFG6qRS1mlozy7FisJcsMxubtN7ZA1h-rlkdEPWVQ5gik1DbyBJOyAYMRUaMijjAEfIQn5I-JE9XW6sbjB3szNqryveYQnTruBrIIWTIYLl1Mv98fa8uwShGEZsrBA__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blackedraw.com/scene/videoimages/107136/mainPortrait/1784106049677/blackedraw-42426_320x362.jpeg",
+            "placeholder": "https://cdn.blackedraw.com/scene/videoimages/107136/mainPortrait/1784106049677/blackedraw-42426_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blackedraw.com/scene/videoimages/107136/mainPortrait/1784106049677/blackedraw-42426_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blackedraw.com/scene/videoimages/107136/mainPortrait/1784106049677/blackedraw-42426_320x362.webp",
+              "placeholder": "https://cdn.blackedraw.com/scene/videoimages/107136/mainPortrait/1784106049677/blackedraw-42426_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blackedraw.com/scene/videoimages/107136/mainPortrait/1784106049677/blackedraw-42426_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blackedraw.com/scene/videoimages/107136/mainLandscape/1784106049716/blackedraw-42426_628x352.jpeg",
+            "placeholder": "https://cdn.blackedraw.com/scene/videoimages/107136/mainLandscape/1784106049716/blackedraw-42426_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blackedraw.com/scene/videoimages/107136/mainLandscape/1784106049716/blackedraw-42426_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blackedraw.com/scene/videoimages/107136/mainLandscape/1784106049716/blackedraw-42426_628x352.webp",
+              "placeholder": "https://cdn.blackedraw.com/scene/videoimages/107136/mainLandscape/1784106049716/blackedraw-42426_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blackedraw.com/scene/videoimages/107136/mainLandscape/1784106049716/blackedraw-42426_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTU3NGM1YWIwZGQ4OTM3MDhkMDU2NDMiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDctMjBUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "blackedraw:cyberdoll-throats-a-bbc-during-debut",
       "videoId": "107132",
       "title": "CyberDoll Throats A BBC During Debut",
