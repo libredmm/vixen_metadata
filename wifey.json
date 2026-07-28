@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "wifey:leah-and-logan-perfect-wife-takes-12-inches",
+      "videoId": "107135",
+      "title": "Leah and Logan: Perfect Wife Takes 12 Inches",
+      "slug": "leah-and-logan-perfect-wife-takes-12-inches",
+      "site": "wifey",
+      "expertReview": {
+        "global": 9.238095238095237,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-07-25T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Leah Layz",
+          "slugged": "leah-layz",
+          "__typename": "Model"
+        },
+        {
+          "name": "Anton Harden",
+          "slugged": "anton-harden",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.wifey.com/previewvideos/107135/1784125836413/107135_A4fLQYH1khr7tE9mfltUL5IXfjHThXu-2BGk3QuinK8_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ud2lmZXkuY29tL3ByZXZpZXd2aWRlb3MvMTA3MTM1LyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODUyMTM4NzV9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=MZUHuS1F40t5odwqg5tMWPwRcFFnbQyHNXujCLhPUwrg9L4G3c07mVznvGl5eOSZL9a3Ve6vq4dgZy~lNLfTI9sEg9irK7GHdnueIMcTwAsfJnOckPl~402DyGFplpXChoUZx6QoZmyjm1ZJIVgB2qMY11s6vMVHGrMP6VerLV6VH7ijjKqbKAC0ONueb3WUEUUCsf9P3Sn4AIzeeTHQjXEg3bk72mQIDA~eLtm8Nv3M4jELFrCPa5AURBgI7~L34m~oqvrKlFYXITioHPySfTmuVD2iUQpmTKWOt1NMjFyfS86cyHgRVPkan7pKobSdDfLyHIMXaodlAj149b5mwA__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.wifey.com/previewvideos/107135/1784125836413/107135_A4fLQYH1khr7tE9mfltUL5IXfjHThXu-2BGk3QuinK8_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ud2lmZXkuY29tL3ByZXZpZXd2aWRlb3MvMTA3MTM1LyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODUyMTM4NzV9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=MZUHuS1F40t5odwqg5tMWPwRcFFnbQyHNXujCLhPUwrg9L4G3c07mVznvGl5eOSZL9a3Ve6vq4dgZy~lNLfTI9sEg9irK7GHdnueIMcTwAsfJnOckPl~402DyGFplpXChoUZx6QoZmyjm1ZJIVgB2qMY11s6vMVHGrMP6VerLV6VH7ijjKqbKAC0ONueb3WUEUUCsf9P3Sn4AIzeeTHQjXEg3bk72mQIDA~eLtm8Nv3M4jELFrCPa5AURBgI7~L34m~oqvrKlFYXITioHPySfTmuVD2iUQpmTKWOt1NMjFyfS86cyHgRVPkan7pKobSdDfLyHIMXaodlAj149b5mwA__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.wifey.com/scene/videoimages/107135/mainPortrait/1783677420075/wifey-031926-le-la_320x362.jpeg",
+            "placeholder": "https://cdn.wifey.com/scene/videoimages/107135/mainPortrait/1783677420075/wifey-031926-le-la_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.wifey.com/scene/videoimages/107135/mainPortrait/1783677420075/wifey-031926-le-la_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.wifey.com/scene/videoimages/107135/mainPortrait/1783677420075/wifey-031926-le-la_320x362.webp",
+              "placeholder": "https://cdn.wifey.com/scene/videoimages/107135/mainPortrait/1783677420075/wifey-031926-le-la_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.wifey.com/scene/videoimages/107135/mainPortrait/1783677420075/wifey-031926-le-la_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.wifey.com/scene/videoimages/107135/mainLandscape/1783677420093/wifey-031926-le-la_628x352.jpeg",
+            "placeholder": "https://cdn.wifey.com/scene/videoimages/107135/mainLandscape/1783677420093/wifey-031926-le-la_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.wifey.com/scene/videoimages/107135/mainLandscape/1783677420093/wifey-031926-le-la_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.wifey.com/scene/videoimages/107135/mainLandscape/1783677420093/wifey-031926-le-la_628x352.webp",
+              "placeholder": "https://cdn.wifey.com/scene/videoimages/107135/mainLandscape/1783677420093/wifey-031926-le-la_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.wifey.com/scene/videoimages/107135/mainLandscape/1783677420093/wifey-031926-le-la_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTU3OThkY2IwZGQ4OTM3MDhlZjM0NjQiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDctMjVUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "wifey:jazmine-and-jr-hotwife-wants-black-cock",
       "videoId": "107126",
       "title": "Jazmine and JR: Hotwife Wants Black Cock",
