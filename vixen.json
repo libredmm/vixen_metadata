@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "vixen:the-angel-anthology-angela-white",
+      "videoId": "107208",
+      "title": "The Angel Anthology: Angela White",
+      "slug": "the-angel-anthology-angela-white",
+      "site": "vixen",
+      "expertReview": {
+        "global": 9.43661971830986,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-07-31T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Angela White",
+          "slugged": "angela-white",
+          "__typename": "Model"
+        },
+        {
+          "name": "Dan Damage",
+          "slugged": "dan-damage",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.vixen.com/previewvideos/107208/1785239182897/107208_9SOrtHcKXaREXqvSXO9tvliH2ZOvDqABwqs6igvjHUQ_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udml4ZW4uY29tL3ByZXZpZXd2aWRlb3MvMTA3MjA4LyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODU2NDE1Nzh9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=FOOK5Xl3XkrzSZYuLguyLweU32ehaKkImaR3xGhAt8vrd7o9aIQGL0hGQfu7jlIOwNGOpsplqAfOyyRm0tPV237vz4nz8HFpWeVImi9gJo2FDuH8-uvl6lrFC9aQdao7NawOm4o3pQ7Hlj~r2NeIdL54yImULY~60NYG3TeYd7jCQZMuJ2gp-4dW2Y4RKmRp9WgdP1Z2Wgvfh7zi3KuHG7OvDtVDzSyqisWl~rD1qNt0NKYxAeFa6V5-gvsHAIIgsxXtAK1av0VmIgC1teYJ0X2vXK0fPPedD53BdJCdK~iEM7NJJJ2nV4tzcowQmOHyEmwqeWTk61Bw5VxD1~gGWA__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.vixen.com/previewvideos/107208/1785239182895/107208_9SOrtHcKXaREXqvSXO9tvliH2ZOvDqABwqs6igvjHUQ_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udml4ZW4uY29tL3ByZXZpZXd2aWRlb3MvMTA3MjA4LyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODU2NDE1Nzh9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=FOOK5Xl3XkrzSZYuLguyLweU32ehaKkImaR3xGhAt8vrd7o9aIQGL0hGQfu7jlIOwNGOpsplqAfOyyRm0tPV237vz4nz8HFpWeVImi9gJo2FDuH8-uvl6lrFC9aQdao7NawOm4o3pQ7Hlj~r2NeIdL54yImULY~60NYG3TeYd7jCQZMuJ2gp-4dW2Y4RKmRp9WgdP1Z2Wgvfh7zi3KuHG7OvDtVDzSyqisWl~rD1qNt0NKYxAeFa6V5-gvsHAIIgsxXtAK1av0VmIgC1teYJ0X2vXK0fPPedD53BdJCdK~iEM7NJJJ2nV4tzcowQmOHyEmwqeWTk61Bw5VxD1~gGWA__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.vixen.com/scene/videoimages/107208/mainPortrait/1784712348034/vixen-the-angel-anthology-angela-white_320x362.jpeg",
+            "placeholder": "https://cdn.vixen.com/scene/videoimages/107208/mainPortrait/1784712348034/vixen-the-angel-anthology-angela-white_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.vixen.com/scene/videoimages/107208/mainPortrait/1784712348034/vixen-the-angel-anthology-angela-white_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.vixen.com/scene/videoimages/107208/mainPortrait/1784712348034/vixen-the-angel-anthology-angela-white_320x362.webp",
+              "placeholder": "https://cdn.vixen.com/scene/videoimages/107208/mainPortrait/1784712348034/vixen-the-angel-anthology-angela-white_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.vixen.com/scene/videoimages/107208/mainPortrait/1784712348034/vixen-the-angel-anthology-angela-white_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.vixen.com/scene/videoimages/107208/mainLandscape/1784712348029/vixen-the-angel-anthology-angela-white_628x352.jpeg",
+            "placeholder": "https://cdn.vixen.com/scene/videoimages/107208/mainLandscape/1784712348029/vixen-the-angel-anthology-angela-white_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.vixen.com/scene/videoimages/107208/mainLandscape/1784712348029/vixen-the-angel-anthology-angela-white_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.vixen.com/scene/videoimages/107208/mainLandscape/1784712348029/vixen-the-angel-anthology-angela-white_628x352.webp",
+              "placeholder": "https://cdn.vixen.com/scene/videoimages/107208/mainLandscape/1784712348029/vixen-the-angel-anthology-angela-white_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.vixen.com/scene/videoimages/107208/mainLandscape/1784712348029/vixen-the-angel-anthology-angela-white_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTYwOGRiZmE2YWI1N2FjMTUyNzVmMjUiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDctMzFUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "vixen:elegant-beauty-needs-passionate-sex",
       "videoId": "107143",
       "title": "Elegant Beauty Needs Passionate Sex",
