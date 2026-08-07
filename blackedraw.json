@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "blackedraw:tight-blondies-first-time-raw",
+      "videoId": "107209",
+      "title": "Tight Blondies First Time Raw",
+      "slug": "tight-blondies-first-time-raw",
+      "site": "blackedraw",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-08-09T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Gracey Snow",
+          "slugged": "gracey-snow",
+          "__typename": "Model"
+        },
+        {
+          "name": "Goldey",
+          "slugged": "goldey",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blackedraw.com/previewvideos/107209/1785146156265/107209_jVyUwv9gGBVcv6Q4H4gifVwuXk4YxUXtmIabD0RBoDY_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZHJhdy5jb20vcHJldmlld3ZpZGVvcy8xMDcyMDkvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjA2ODkxNX19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=f8QURjtyZT~LFcK3BRn38D-CjRbiRMrKjeyVkqoiwj9EAwGHeyxlnJkL7l5tPrxuWaGGl4VWB2DG54Sda2~f~8qkmEi5G017kaOoGdsHB~4OyC030X3NjkE7-OStYqbJi6pbt6q7RgpY0QBOv9qW1xNur2X1RhZ6ysv7BahNUX2DD6ZvtpyporcSoqHejRrn9ZurzhqFrvjz6HSSu7VIhNHmip8lvjSkf85612g20KxLIsTkPJnB8tFgmW-AEqagv6Ctp8P~3m9OjwBXv~u7l7EpPqcK-kuPDoV6HPSN3xXLxueQLgkrJ~8veORUjrBJedgQEGgKrzF83yf4zOTBdA__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blackedraw.com/previewvideos/107209/1785146156264/107209_jVyUwv9gGBVcv6Q4H4gifVwuXk4YxUXtmIabD0RBoDY_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZHJhdy5jb20vcHJldmlld3ZpZGVvcy8xMDcyMDkvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjA2ODkxNX19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=f8QURjtyZT~LFcK3BRn38D-CjRbiRMrKjeyVkqoiwj9EAwGHeyxlnJkL7l5tPrxuWaGGl4VWB2DG54Sda2~f~8qkmEi5G017kaOoGdsHB~4OyC030X3NjkE7-OStYqbJi6pbt6q7RgpY0QBOv9qW1xNur2X1RhZ6ysv7BahNUX2DD6ZvtpyporcSoqHejRrn9ZurzhqFrvjz6HSSu7VIhNHmip8lvjSkf85612g20KxLIsTkPJnB8tFgmW-AEqagv6Ctp8P~3m9OjwBXv~u7l7EpPqcK-kuPDoV6HPSN3xXLxueQLgkrJ~8veORUjrBJedgQEGgKrzF83yf4zOTBdA__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blackedraw.com/scene/videoimages/107209/mainPortrait/1784892978448/blackedraw-52626_320x362.jpeg",
+            "placeholder": "https://cdn.blackedraw.com/scene/videoimages/107209/mainPortrait/1784892978448/blackedraw-52626_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blackedraw.com/scene/videoimages/107209/mainPortrait/1784892978448/blackedraw-52626_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blackedraw.com/scene/videoimages/107209/mainPortrait/1784892978448/blackedraw-52626_320x362.webp",
+              "placeholder": "https://cdn.blackedraw.com/scene/videoimages/107209/mainPortrait/1784892978448/blackedraw-52626_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blackedraw.com/scene/videoimages/107209/mainPortrait/1784892978448/blackedraw-52626_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blackedraw.com/scene/videoimages/107209/mainLandscape/1784892978459/blackedraw-52626_628x352.jpeg",
+            "placeholder": "https://cdn.blackedraw.com/scene/videoimages/107209/mainLandscape/1784892978459/blackedraw-52626_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blackedraw.com/scene/videoimages/107209/mainLandscape/1784892978459/blackedraw-52626_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blackedraw.com/scene/videoimages/107209/mainLandscape/1784892978459/blackedraw-52626_628x352.webp",
+              "placeholder": "https://cdn.blackedraw.com/scene/videoimages/107209/mainLandscape/1784892978459/blackedraw-52626_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blackedraw.com/scene/videoimages/107209/mainLandscape/1784892978459/blackedraw-52626_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTYzNGYxZDIwOTdhNzdlMmIxZTMzZmYiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDgtMDlUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "blackedraw:2-horny-friends-1-giant-cock",
       "videoId": "107205",
       "title": "2 Horny Friends, 1 Giant Cock",
