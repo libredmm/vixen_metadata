@@ -1,6 +1,107 @@
 [
   {
     "node": {
+      "id": "blacked:hotel-vixen-season-3-episode-2-unparalleled-customer-service",
+      "videoId": "107216",
+      "title": "Hotel Vixen Season 3 Episode 2: Unparalleled Customer Service",
+      "slug": "hotel-vixen-season-3-episode-2-unparalleled-customer-service",
+      "site": "blacked",
+      "expertReview": {
+        "global": 9.388235294117647,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-08-11T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Dolly Dyson",
+          "slugged": "dolly-dyson",
+          "__typename": "Model"
+        },
+        {
+          "name": "Troy Francisco",
+          "slugged": "troy-francisco",
+          "__typename": "Model"
+        },
+        {
+          "name": "Hollywood Cash",
+          "slugged": "hollywood-cash",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107216/1786007972130/107216_cmZd4_zVM0rQ_-X2GnKDgVo4izsx2RDJodz6vLUG9DM_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDcyMTYvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjU4ODU2NX19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=Hg4ZBKD7dDyMVaC3J6ZnO4ZNzowMPsH-tAylGAiy4JLdXu75LNJe7yXE4FebXLpV5cBFFG7NzeTz5U2CvLJHm3WnydFiXABtsN5N5xTgELW5easL8nVcZuxs6tkFOv-UFbwwL2J49nify9curDtrjM3La3yOpF7j8FR~CG3YE6LGA10BuVKXgoQINikSoYi9slQ8nK5SgFWDj9F9UV~6lJSAJdJpxeH4RWveVmFw8FA-jN-XVC3SFjpRj3CI1-0-9cPsC8r8kVWZV7gUw~9H7dYbyOXerSxGRDp7eR7B6~UXFTSh7Ej4DBMbuCc13Y0MND3Jo48Pc7A7T~wLf2YFvw__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107216/1786007972128/107216_cmZd4_zVM0rQ_-X2GnKDgVo4izsx2RDJodz6vLUG9DM_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDcyMTYvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjU4ODU2NX19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=Hg4ZBKD7dDyMVaC3J6ZnO4ZNzowMPsH-tAylGAiy4JLdXu75LNJe7yXE4FebXLpV5cBFFG7NzeTz5U2CvLJHm3WnydFiXABtsN5N5xTgELW5easL8nVcZuxs6tkFOv-UFbwwL2J49nify9curDtrjM3La3yOpF7j8FR~CG3YE6LGA10BuVKXgoQINikSoYi9slQ8nK5SgFWDj9F9UV~6lJSAJdJpxeH4RWveVmFw8FA-jN-XVC3SFjpRj3CI1-0-9cPsC8r8kVWZV7gUw~9H7dYbyOXerSxGRDp7eR7B6~UXFTSh7Ej4DBMbuCc13Y0MND3Jo48Pc7A7T~wLf2YFvw__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107216/mainPortrait/1785922197485/blacked-021525-dol-dy_320x362.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107216/mainPortrait/1785922197485/blacked-021525-dol-dy_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107216/mainPortrait/1785922197485/blacked-021525-dol-dy_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107216/mainPortrait/1785922197485/blacked-021525-dol-dy_320x362.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107216/mainPortrait/1785922197485/blacked-021525-dol-dy_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107216/mainPortrait/1785922197485/blacked-021525-dol-dy_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107216/mainLandscape/1785922197494/blacked-021525-dol-dy_628x352.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107216/mainLandscape/1785922197494/blacked-021525-dol-dy_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107216/mainLandscape/1785922197494/blacked-021525-dol-dy_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107216/mainLandscape/1785922197494/blacked-021525-dol-dy_628x352.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107216/mainLandscape/1785922197494/blacked-021525-dol-dy_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107216/mainLandscape/1785922197494/blacked-021525-dol-dy_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTc0NTEzM2E5ZGM5NjFmNzgzNmZiZTciLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDgtMTFUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "blacked:hot-bestie-foursome",
       "videoId": "107210",
       "title": "Hot Bestie Foursome",
