@@ -1,6 +1,107 @@
 [
   {
     "node": {
+      "id": "deeper:bet-your-bottom",
+      "videoId": "107733",
+      "title": "Bet Your Bottom",
+      "slug": "bet-your-bottom",
+      "site": "deeper",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-09-03T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "HoneyBee",
+          "slugged": "honeybee",
+          "__typename": "Model"
+        },
+        {
+          "name": "liz jordan",
+          "slugged": "liz-jordan",
+          "__typename": "Model"
+        },
+        {
+          "name": "Isiah Maxwell",
+          "slugged": "isiah-maxwell",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107733/1787144632764/107733_nnYsUUdFLLF5Mh3GFqOxDDxD0ipGCDnPl3KJ5n41Nfw_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzczMy8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjgwNDUyfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=KY1irmpHxla0giQY-g1qKMInEfOpA6dK7R3Lwov37sFMReriWFBKtStaiktMoSclmrnu4mLABbJ6F-3969oHXthX3hrjjN1cbfLhLQjcHmzdAJO3mAJ8qPRI1n8UBtQwPwam1SCNUKh3Xxnr~D2U9H24nI93Z54j2c5QYSRAtF1tbscIl2CWEcxLG6c~dLHr5YIHelF24HwDy83uh8kzN3VgdLogtMtjgvfbJMjwSxAmbsZtewHglYWVMtV4lYse19~4N9Seusc3S-CBMT0fqQp~TOFmjqi-nSeDltjwYxwIOH0TD~aCC6V7S6LcND5TQ~iKpDriW~k64PHM~ZBTdw__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107733/1787144632762/107733_nnYsUUdFLLF5Mh3GFqOxDDxD0ipGCDnPl3KJ5n41Nfw_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzczMy8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MjgwNDUyfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=KY1irmpHxla0giQY-g1qKMInEfOpA6dK7R3Lwov37sFMReriWFBKtStaiktMoSclmrnu4mLABbJ6F-3969oHXthX3hrjjN1cbfLhLQjcHmzdAJO3mAJ8qPRI1n8UBtQwPwam1SCNUKh3Xxnr~D2U9H24nI93Z54j2c5QYSRAtF1tbscIl2CWEcxLG6c~dLHr5YIHelF24HwDy83uh8kzN3VgdLogtMtjgvfbJMjwSxAmbsZtewHglYWVMtV4lYse19~4N9Seusc3S-CBMT0fqQp~TOFmjqi-nSeDltjwYxwIOH0TD~aCC6V7S6LcND5TQ~iKpDriW~k64PHM~ZBTdw__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107733/mainPortrait/1787143931857/deeper-022825-hobe_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107733/mainPortrait/1787143931857/deeper-022825-hobe_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107733/mainPortrait/1787143931857/deeper-022825-hobe_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107733/mainPortrait/1787143931857/deeper-022825-hobe_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107733/mainPortrait/1787143931857/deeper-022825-hobe_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107733/mainPortrait/1787143931857/deeper-022825-hobe_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107733/mainLandscape/1787143931879/deeper-022825-hobe_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107733/mainLandscape/1787143931879/deeper-022825-hobe_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107733/mainLandscape/1787143931879/deeper-022825-hobe_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107733/mainLandscape/1787143931879/deeper-022825-hobe_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107733/mainLandscape/1787143931879/deeper-022825-hobe_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107733/mainLandscape/1787143931879/deeper-022825-hobe_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTg1YTk4Mjk3MDExMDdlZmI0YTk3MDAiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDktMDNUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:no-more-games",
       "videoId": "107731",
       "title": "No More Games",

@@ -97,6 +97,122 @@
   },
   {
     "node": {
+      "id": "tushy:hotel-vixen-season-3-episode-6-code-pink",
+      "videoId": "107221",
+      "title": "Hotel Vixen Season 3 Episode 6: Code Pink",
+      "slug": "hotel-vixen-season-3-episode-6-code-pink",
+      "site": "tushy",
+      "expertReview": {
+        "global": 9.793103448275861,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-08-30T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Ashby Winter",
+          "slugged": "ashby-winter",
+          "__typename": "Model"
+        },
+        {
+          "name": "Stefany Kyler",
+          "slugged": "stefany-kyler",
+          "__typename": "Model"
+        },
+        {
+          "name": "Baby Nicols",
+          "slugged": "baby-nicols",
+          "__typename": "Model"
+        },
+        {
+          "name": "eve sweet",
+          "slugged": "eve-sweet",
+          "__typename": "Model"
+        },
+        {
+          "name": "Alberto Blanco",
+          "slugged": "alberto-blanco",
+          "__typename": "Model"
+        },
+        {
+          "name": "Matthew Meier",
+          "slugged": "matthew-meier",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.tushy.com/previewvideos/107221/1787220120652/107221_wAXf4wCJaIsfrB5r17OP_ha_9QwCGog23yzNZSz1oiY_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udHVzaHkuY29tL3ByZXZpZXd2aWRlb3MvMTA3MjIxLyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyODA0Njl9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=lmUoj4SPdAzDd5LmjprZYXwQ947HhIvqOQvjwhiFPpMlU6mp65TltdN~cniKK1CeRK-zpO7U4~K7SeW0FlYGNSntM~9S~qVMaf2dj4pEGk2Z1KonM29K6KAoAqWEMeSIpTPZ0R8NkE70NYGS2ISpYxK~YfiwDx1S7Kq23p8PtQXYUNuqszYe0eBzkr0T3h2jvKxkpouk2P8JM7DRYWY9KHj5e~6~~h0bUH5ip65~1En~wQ~~gR5Z6Z~h-kV7vEsKPZlZCn2onf9j5fm-b7C1cZwqxRH2CDnDMN~WPwz28776iXsfYAbqWYHs7UiF-rW6nZEO62byvytzXx79HvbE8A__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.tushy.com/previewvideos/107221/1787220120651/107221_wAXf4wCJaIsfrB5r17OP_ha_9QwCGog23yzNZSz1oiY_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udHVzaHkuY29tL3ByZXZpZXd2aWRlb3MvMTA3MjIxLyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyODA0Njl9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=lmUoj4SPdAzDd5LmjprZYXwQ947HhIvqOQvjwhiFPpMlU6mp65TltdN~cniKK1CeRK-zpO7U4~K7SeW0FlYGNSntM~9S~qVMaf2dj4pEGk2Z1KonM29K6KAoAqWEMeSIpTPZ0R8NkE70NYGS2ISpYxK~YfiwDx1S7Kq23p8PtQXYUNuqszYe0eBzkr0T3h2jvKxkpouk2P8JM7DRYWY9KHj5e~6~~h0bUH5ip65~1En~wQ~~gR5Z6Z~h-kV7vEsKPZlZCn2onf9j5fm-b7C1cZwqxRH2CDnDMN~WPwz28776iXsfYAbqWYHs7UiF-rW6nZEO62byvytzXx79HvbE8A__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.tushy.com/scene/videoimages/107221/mainPortrait/1787216946179/tushy-021725-ash-win_320x362.jpeg",
+            "placeholder": "https://cdn.tushy.com/scene/videoimages/107221/mainPortrait/1787216946179/tushy-021725-ash-win_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.tushy.com/scene/videoimages/107221/mainPortrait/1787216946179/tushy-021725-ash-win_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.tushy.com/scene/videoimages/107221/mainPortrait/1787216946179/tushy-021725-ash-win_320x362.webp",
+              "placeholder": "https://cdn.tushy.com/scene/videoimages/107221/mainPortrait/1787216946179/tushy-021725-ash-win_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.tushy.com/scene/videoimages/107221/mainPortrait/1787216946179/tushy-021725-ash-win_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.tushy.com/scene/videoimages/107221/mainLandscape/1787216946198/tushy-021725-ash-win_628x352.jpeg",
+            "placeholder": "https://cdn.tushy.com/scene/videoimages/107221/mainLandscape/1787216946198/tushy-021725-ash-win_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.tushy.com/scene/videoimages/107221/mainLandscape/1787216946198/tushy-021725-ash-win_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.tushy.com/scene/videoimages/107221/mainLandscape/1787216946198/tushy-021725-ash-win_628x352.webp",
+              "placeholder": "https://cdn.tushy.com/scene/videoimages/107221/mainLandscape/1787216946198/tushy-021725-ash-win_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.tushy.com/scene/videoimages/107221/mainLandscape/1787216946198/tushy-021725-ash-win_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTg2ZDA1YTk3MDExMDdlZmIwOGI2YjQiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDgtMzBUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "tushy:hotel-vixen-season-3-episode-3-out-of-the-frying-pan",
       "videoId": "107220",
       "title": "Hotel Vixen Season 3 Episode 3: Out of the Frying Pan",
