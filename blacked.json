@@ -1,6 +1,107 @@
 [
   {
     "node": {
+      "id": "blacked:perfect-beauty-bbc-double-teamed",
+      "videoId": "107748",
+      "title": "Perfect Beauty BBC Double Teamed",
+      "slug": "perfect-beauty-bbc-double-teamed",
+      "site": "blacked",
+      "expertReview": {
+        "global": 9.405405405405405,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-09-05T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Josie Rae",
+          "slugged": "josie-rae",
+          "__typename": "Model"
+        },
+        {
+          "name": "Dimitri Shadow",
+          "slugged": "dimitri-shadow",
+          "__typename": "Model"
+        },
+        {
+          "name": "Terry Banks",
+          "slugged": "terry-banks",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107748/1788252603395/107748_HZQStS6s3eAkcfwrpVAXGI1bEtXLzxQCP6BdCi1vVSQ_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDc3NDgvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODgzNzg4MX19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=DmTacrBz55q9jYtwPBIQdaMtkoICfyT3PoPWHLFc~fBmhplCcx5bvWJcdICa0DSQ4CObrqUbQR24P2J8ZTnX1OkDhf-0TmLCicN7XrUbYc0Mzv~EoDjZTuF4fB3crifu1EBu5n4y41Ai1Qgnu3sX9V3R03e0-J5Qv8gAwj2FgGz2N6-xoc1XFcj2Sqp1KkBkeU6~lmYofYtMmZrIr1HcSMJunS1DYOtBuI1AEUtDTUSQ0aIL4vCXWdCkIfav5NN3pFziG1wY9IsHoU6PVdafmfetcYJNXZDWGIEL0HmQIKZ5w2jSB8~i03vwTix7ssQmAb2IrvKEmPzVqjGXfdJP3Q__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107748/1788252603393/107748_HZQStS6s3eAkcfwrpVAXGI1bEtXLzxQCP6BdCi1vVSQ_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDc3NDgvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODgzNzg4MX19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=DmTacrBz55q9jYtwPBIQdaMtkoICfyT3PoPWHLFc~fBmhplCcx5bvWJcdICa0DSQ4CObrqUbQR24P2J8ZTnX1OkDhf-0TmLCicN7XrUbYc0Mzv~EoDjZTuF4fB3crifu1EBu5n4y41Ai1Qgnu3sX9V3R03e0-J5Qv8gAwj2FgGz2N6-xoc1XFcj2Sqp1KkBkeU6~lmYofYtMmZrIr1HcSMJunS1DYOtBuI1AEUtDTUSQ0aIL4vCXWdCkIfav5NN3pFziG1wY9IsHoU6PVdafmfetcYJNXZDWGIEL0HmQIKZ5w2jSB8~i03vwTix7ssQmAb2IrvKEmPzVqjGXfdJP3Q__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107748/mainPortrait/1788252260324/blacked-033126-jo-ra_320x362.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107748/mainPortrait/1788252260324/blacked-033126-jo-ra_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107748/mainPortrait/1788252260324/blacked-033126-jo-ra_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107748/mainPortrait/1788252260324/blacked-033126-jo-ra_320x362.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107748/mainPortrait/1788252260324/blacked-033126-jo-ra_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107748/mainPortrait/1788252260324/blacked-033126-jo-ra_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107748/mainLandscape/1788342022251/blacked-perfect-beauty-bbc-double-teamed_628x352.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107748/mainLandscape/1788342022251/blacked-perfect-beauty-bbc-double-teamed_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107748/mainLandscape/1788342022251/blacked-perfect-beauty-bbc-double-teamed_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107748/mainLandscape/1788342022251/blacked-perfect-beauty-bbc-double-teamed_628x352.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107748/mainLandscape/1788342022251/blacked-perfect-beauty-bbc-double-teamed_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107748/mainLandscape/1788342022251/blacked-perfect-beauty-bbc-double-teamed_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTk2OTE4NjIxZjkxZGYzZjY4MjYyNzIiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDktMDVUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "blacked:petite-juniper-takes-thick-bbc",
       "videoId": "107728",
       "title": "Petite Juniper Takes Thick BBC",
@@ -295,6 +396,102 @@
       "__typename": "Video"
     },
     "cursor": "eyJfaWQiOiI2YTc0NWNmMDVjMDRjMDYwZDI1NmZlNWQiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDgtMTZUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
+      "id": "blacked:hotel-vixen-season-3-episode-8-serious-about-service",
+      "videoId": "107218",
+      "title": "Hotel Vixen Season 3 Episode 8: Serious About Service",
+      "slug": "hotel-vixen-season-3-episode-8-serious-about-service",
+      "site": "blacked",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-09-10T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Milan Cheek",
+          "slugged": "milan-cheek",
+          "__typename": "Model"
+        },
+        {
+          "name": "Aaron Rock",
+          "slugged": "aaron-rock",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107218/1788519711360/107218_o_1nSC8vXEjSERsBxnm6xiWPJXFIkwpK0_dnwMoUGdw_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDcyMTgvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODgzODE0MH19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=WjRDCiZ7tq6W1cwYM-SJ9z0EUFKXd6dpGYhnNDckAjlAXyiAyRnbkgm8bSG~oJ9nalOefI1uow~h8CpKpRTGTTYGSlLVUoTxxpzZ2ZbwLs5Pus1MQ7a7uAv-VDfMUMASM4HYNpRoDoStOPXrzuI2K~Jnxn8k5yhaWwco6aoXFyKVhhkQObOSKB2wDJJy7Kx-IZGy6fQioOQ9wx-Wqs7Cnz1lL51xWJVrX7NWAiqiP7mitnphshdqhXBqjX6p3kSKWCPWWijUWy5ZymjlZQzroYuEezHAlUnoJqFJIavoeeNSzEQhazoFpS~RiFsg52wwAAu2vusHI0ksh77oOIOf9w__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107218/1788519711358/107218_o_1nSC8vXEjSERsBxnm6xiWPJXFIkwpK0_dnwMoUGdw_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDcyMTgvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODgzODE0MH19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=WjRDCiZ7tq6W1cwYM-SJ9z0EUFKXd6dpGYhnNDckAjlAXyiAyRnbkgm8bSG~oJ9nalOefI1uow~h8CpKpRTGTTYGSlLVUoTxxpzZ2ZbwLs5Pus1MQ7a7uAv-VDfMUMASM4HYNpRoDoStOPXrzuI2K~Jnxn8k5yhaWwco6aoXFyKVhhkQObOSKB2wDJJy7Kx-IZGy6fQioOQ9wx-Wqs7Cnz1lL51xWJVrX7NWAiqiP7mitnphshdqhXBqjX6p3kSKWCPWWijUWy5ZymjlZQzroYuEezHAlUnoJqFJIavoeeNSzEQhazoFpS~RiFsg52wwAAu2vusHI0ksh77oOIOf9w__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107218/mainPortrait/1788517095332/blacked-021325-min-che_320x362.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107218/mainPortrait/1788517095332/blacked-021325-min-che_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107218/mainPortrait/1788517095332/blacked-021325-min-che_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107218/mainPortrait/1788517095332/blacked-021325-min-che_320x362.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107218/mainPortrait/1788517095332/blacked-021325-min-che_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107218/mainPortrait/1788517095332/blacked-021325-min-che_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107218/mainLandscape/1788517095727/blacked-021325-min-che_628x352.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107218/mainLandscape/1788517095727/blacked-021325-min-che_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107218/mainLandscape/1788517095727/blacked-021325-min-che_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107218/mainLandscape/1788517095727/blacked-021325-min-che_628x352.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107218/mainLandscape/1788517095727/blacked-021325-min-che_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107218/mainLandscape/1788517095727/blacked-021325-min-che_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTlhOWIxYTIxZjkxZGYzZjYxNTNjNWIiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDktMTBUMTc6MzA6MDAuMDAwWiJ9",
     "__typename": "VideoEdge"
   },
   {
