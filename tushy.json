@@ -193,6 +193,107 @@
   },
   {
     "node": {
+      "id": "tushy:hotel-vixen-season-3-episode-9-no-more-fires",
+      "videoId": "107222",
+      "title": "Hotel Vixen Season 3 Episode 9: No More Fires",
+      "slug": "hotel-vixen-season-3-episode-9-no-more-fires",
+      "site": "tushy",
+      "expertReview": {
+        "global": 9.551724137931034,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-09-13T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Stacy Crystal",
+          "slugged": "stacy-crystal",
+          "__typename": "Model"
+        },
+        {
+          "name": "Alberto Blanco",
+          "slugged": "alberto-blanco",
+          "__typename": "Model"
+        },
+        {
+          "name": "Matthew Meier",
+          "slugged": "matthew-meier",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.tushy.com/previewvideos/107222/1788866741214/107222_4IRfH7L5tCmHNt76UbU_IDMGYdBkg_JBiLRvO-miwro_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udHVzaHkuY29tL3ByZXZpZXd2aWRlb3MvMTA3MjIyLyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk1NzkxMTF9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=NpuJX0hwGo2ADuMxaqpK9vjUZJREz85C8WwCAnNAj~6bPs-gpVSWnyRfgzFnQX7nID8ff75-B0SpFHCh0HIEO5Zaj2qmM6WFY8SjjgdVC0GSd9oMDdMBlDqNxE8Y5MVw4Ua12B-Pyq~xlCvIsZmM9C6sN~4OHWy~CVTpFKvtVV9x9CM2sG0oTjD87ASpAKeViU2tp90~r-9BzKzifzj2MhZphK2otNH7G4C0vWwsgcg684bMXHK3lXpYKnpiChCos73PXxl3gpy4e1IAFwoUsWDpd9nOz6QecHKW56cKU367tZa3tUuJu010OsAGy57jpJTmTZ39Kp32NusoNIhUKg__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.tushy.com/previewvideos/107222/1788866741212/107222_4IRfH7L5tCmHNt76UbU_IDMGYdBkg_JBiLRvO-miwro_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udHVzaHkuY29tL3ByZXZpZXd2aWRlb3MvMTA3MjIyLyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODk1NzkxMTF9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=NpuJX0hwGo2ADuMxaqpK9vjUZJREz85C8WwCAnNAj~6bPs-gpVSWnyRfgzFnQX7nID8ff75-B0SpFHCh0HIEO5Zaj2qmM6WFY8SjjgdVC0GSd9oMDdMBlDqNxE8Y5MVw4Ua12B-Pyq~xlCvIsZmM9C6sN~4OHWy~CVTpFKvtVV9x9CM2sG0oTjD87ASpAKeViU2tp90~r-9BzKzifzj2MhZphK2otNH7G4C0vWwsgcg684bMXHK3lXpYKnpiChCos73PXxl3gpy4e1IAFwoUsWDpd9nOz6QecHKW56cKU367tZa3tUuJu010OsAGy57jpJTmTZ39Kp32NusoNIhUKg__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.tushy.com/scene/videoimages/107222/mainPortrait/1789146170151/tushy-hotel-vixen-season-3-episode-9-no-more-fires_320x362.jpeg",
+            "placeholder": "https://cdn.tushy.com/scene/videoimages/107222/mainPortrait/1789146170151/tushy-hotel-vixen-season-3-episode-9-no-more-fires_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.tushy.com/scene/videoimages/107222/mainPortrait/1789146170151/tushy-hotel-vixen-season-3-episode-9-no-more-fires_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.tushy.com/scene/videoimages/107222/mainPortrait/1789146170151/tushy-hotel-vixen-season-3-episode-9-no-more-fires_320x362.webp",
+              "placeholder": "https://cdn.tushy.com/scene/videoimages/107222/mainPortrait/1789146170151/tushy-hotel-vixen-season-3-episode-9-no-more-fires_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.tushy.com/scene/videoimages/107222/mainPortrait/1789146170151/tushy-hotel-vixen-season-3-episode-9-no-more-fires_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.tushy.com/scene/videoimages/107222/mainLandscape/1789146170264/tushy-hotel-vixen-season-3-episode-9-no-more-fires_628x352.jpeg",
+            "placeholder": "https://cdn.tushy.com/scene/videoimages/107222/mainLandscape/1789146170264/tushy-hotel-vixen-season-3-episode-9-no-more-fires_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.tushy.com/scene/videoimages/107222/mainLandscape/1789146170264/tushy-hotel-vixen-season-3-episode-9-no-more-fires_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.tushy.com/scene/videoimages/107222/mainLandscape/1789146170264/tushy-hotel-vixen-season-3-episode-9-no-more-fires_628x352.webp",
+              "placeholder": "https://cdn.tushy.com/scene/videoimages/107222/mainLandscape/1789146170264/tushy-hotel-vixen-season-3-episode-9-no-more-fires_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.tushy.com/scene/videoimages/107222/mainLandscape/1789146170264/tushy-hotel-vixen-season-3-episode-9-no-more-fires_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YTlmZjA1ZmY4YTE0ZGQ0ZGIyNTA1ZmQiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMDktMTNUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "tushy:hotel-vixen-season-3-episode-6-code-pink",
       "videoId": "107221",
       "title": "Hotel Vixen Season 3 Episode 6: Code Pink",
