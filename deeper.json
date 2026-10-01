@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "deeper:the-critique",
+      "videoId": "107783",
+      "title": "The Critique",
+      "slug": "the-critique",
+      "site": "deeper",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-10-01T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Kimmie Haze",
+          "slugged": "kimmie-haze",
+          "__typename": "Model"
+        },
+        {
+          "name": "Milan Ponjevic",
+          "slugged": "milan-ponjevic",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107783/1790071328751/107783_3_jgjPrnowxyxu45GtkLC5aygYtt-33O94-yJpHH2Yw_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzc4My8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODIzNTIwfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=b8oMIyPcdBnlM3MMrCogFpHsg3Cs~3lmw3cS2Ul1SYb8KIYeFklq2uPoD7N1odZ4sJ6jFYNhwQIUAfYBQMiZEcVeqHKTK8nXx-rpp466JWSe3veoICqstYauzZxFLJKqWp9cahq3cNdqiEsbQhZHPab7535eVH0aGkoDZFpPLp1UYkO3PK4RGUVg0w9O1uHk-KO9WuXCp2EUKnSmerZ9e8kJz9B3JWPIk9slpoBkTIFy0LTXz-tRiexjwNuaerI5h6cOeyOyOW5eOGu1GGuPLnmMZ82Kd0HEPAglaQsmQCFiUlI6Vl6j5fV7P8mtxumBe2YfydbNPnIeluryii3PFg__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107783/1790071328750/107783_3_jgjPrnowxyxu45GtkLC5aygYtt-33O94-yJpHH2Yw_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzc4My8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODIzNTIwfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=b8oMIyPcdBnlM3MMrCogFpHsg3Cs~3lmw3cS2Ul1SYb8KIYeFklq2uPoD7N1odZ4sJ6jFYNhwQIUAfYBQMiZEcVeqHKTK8nXx-rpp466JWSe3veoICqstYauzZxFLJKqWp9cahq3cNdqiEsbQhZHPab7535eVH0aGkoDZFpPLp1UYkO3PK4RGUVg0w9O1uHk-KO9WuXCp2EUKnSmerZ9e8kJz9B3JWPIk9slpoBkTIFy0LTXz-tRiexjwNuaerI5h6cOeyOyOW5eOGu1GGuPLnmMZ82Kd0HEPAglaQsmQCFiUlI6Vl6j5fV7P8mtxumBe2YfydbNPnIeluryii3PFg__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107783/mainPortrait/1789728717064/deeper-052226-kim-haz_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107783/mainPortrait/1789728717064/deeper-052226-kim-haz_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107783/mainPortrait/1789728717064/deeper-052226-kim-haz_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107783/mainPortrait/1789728717064/deeper-052226-kim-haz_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107783/mainPortrait/1789728717064/deeper-052226-kim-haz_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107783/mainPortrait/1789728717064/deeper-052226-kim-haz_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107783/mainLandscape/1789728717076/deeper-052226-kim-haz_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107783/mainLandscape/1789728717076/deeper-052226-kim-haz_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107783/mainLandscape/1789728717076/deeper-052226-kim-haz_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107783/mainLandscape/1789728717076/deeper-052226-kim-haz_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107783/mainLandscape/1789728717076/deeper-052226-kim-haz_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107783/mainLandscape/1789728717076/deeper-052226-kim-haz_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": "eyJfaWQiOiI2YWIyNTFjNjk3NjczOWVjZWJiYzU0OWYiLCJyZWxlYXNlRGF0ZSI6IjIwMjYtMTAtMDFUMTc6MzA6MDAuMDAwWiJ9",
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:choose",
       "videoId": "107754",
       "title": "Choose",
