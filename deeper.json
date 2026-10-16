@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "deeper:daydream",
+      "videoId": "107898",
+      "title": "Daydream",
+      "slug": "daydream",
+      "site": "deeper",
+      "expertReview": {
+        "global": 9.40625,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-10-15T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Iris Leon",
+          "slugged": "iris-leon",
+          "__typename": "Model"
+        },
+        {
+          "name": "Damion Dayski",
+          "slugged": "damion-dayski",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107898/1791292011473/107898_nxO1vMwJpaB7-9ADOfq6y7ZKgWTrTqX4T1_kfnXOvCs_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzg5OC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkyMTY0MTQwfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=FUgXzKpaqylZ-eH4Zz6n5vRZU5wZJ7ifcChP7vTMPCc9D0oQaOJQOHyek6-jNy3qq~Y2A1YEwE0ev9GSZ-TJMMoK38hh35~KDL2cuwmT0eD7VLyblji1wg-qUHC2RKKMbe0Vcb9n00S6Nm8YXIdU8XjRQg5JQkXogQZPBp-4NQMKg075x1tzIs5IQ0tLbBx7SKMBbT~-LdEKiQkzL3CUfxyWOtp7ViKi0yNZhuRovNaS9q7ElGhQIKzYfSWm57pqJ4Fn2iEGXGaTXo5otcipVrnaFitlbV1Iim5ZohKfEaopiF6whhqXm1yFd2ytKDKvf564Tt4Adpo3sOd3N7KdMQ__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107898/1791292011472/107898_nxO1vMwJpaB7-9ADOfq6y7ZKgWTrTqX4T1_kfnXOvCs_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzg5OC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkyMTY0MTQwfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=FUgXzKpaqylZ-eH4Zz6n5vRZU5wZJ7ifcChP7vTMPCc9D0oQaOJQOHyek6-jNy3qq~Y2A1YEwE0ev9GSZ-TJMMoK38hh35~KDL2cuwmT0eD7VLyblji1wg-qUHC2RKKMbe0Vcb9n00S6Nm8YXIdU8XjRQg5JQkXogQZPBp-4NQMKg075x1tzIs5IQ0tLbBx7SKMBbT~-LdEKiQkzL3CUfxyWOtp7ViKi0yNZhuRovNaS9q7ElGhQIKzYfSWm57pqJ4Fn2iEGXGaTXo5otcipVrnaFitlbV1Iim5ZohKfEaopiF6whhqXm1yFd2ytKDKvf564Tt4Adpo3sOd3N7KdMQ__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107898/mainPortrait/1791291578544/deeper-041626-iri-le_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107898/mainPortrait/1791291578544/deeper-041626-iri-le_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107898/mainPortrait/1791291578544/deeper-041626-iri-le_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107898/mainPortrait/1791291578544/deeper-041626-iri-le_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107898/mainPortrait/1791291578544/deeper-041626-iri-le_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107898/mainPortrait/1791291578544/deeper-041626-iri-le_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107898/mainLandscape/1791291578566/deeper-041626-iri-le_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107898/mainLandscape/1791291578566/deeper-041626-iri-le_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107898/mainLandscape/1791291578566/deeper-041626-iri-le_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107898/mainLandscape/1791291578566/deeper-041626-iri-le_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107898/mainLandscape/1791291578566/deeper-041626-iri-le_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107898/mainLandscape/1791291578566/deeper-041626-iri-le_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:absolution",
       "videoId": "107871",
       "title": "Absolution",

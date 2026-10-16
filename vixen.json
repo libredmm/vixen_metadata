@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "vixen:fiesty-babe-bangs-her-boss",
+      "videoId": "107890",
+      "title": "Fiesty Babe Bangs Her Boss",
+      "slug": "fiesty-babe-bangs-her-boss",
+      "site": "vixen",
+      "expertReview": {
+        "global": 9.38888888888889,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-10-14T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Kloe Love",
+          "slugged": "kloe-love",
+          "__typename": "Model"
+        },
+        {
+          "name": "Parker Ambrose",
+          "slugged": "parker-ambrose",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.vixen.com/previewvideos/107890/1791289296321/107890_sFw2Aez6XHDZOyfOfy-sSE0xn7aDkOKN7Sa1evUpEIk_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udml4ZW4uY29tL3ByZXZpZXd2aWRlb3MvMTA3ODkwLyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIxNjQwNjd9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=kcndIMtU4ySmabHdRaK3~gYMahjc1G2q~y3x5Ts-1LIG54DgYTb8RGlISTBdMV4nSSWRxzHUBi~kTxAaErENtgdsK-MonRaoj-vZhik7PfhntWeThrNOWlesypZHxSG5ayrzbCHQz7-ETsXcDsgntcEof4xeQfzxbydyPo8YLVMVJpCThBot7yqZ-e6YsFT6sMqIh7UbKAV0dEkzSLxTJuaA5beyC~WyZzzcplFT1vYgKkQuLoKiOi48i13UgrMXO7sDpNYlVavqKkunvcjo7zooahbgngzSZGHKwZQijiFYftS35-NaolLRvVbfI9oIOBHDeM86ea5oVlDqK3Q3BQ__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.vixen.com/previewvideos/107890/1791289296320/107890_sFw2Aez6XHDZOyfOfy-sSE0xn7aDkOKN7Sa1evUpEIk_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udml4ZW4uY29tL3ByZXZpZXd2aWRlb3MvMTA3ODkwLyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIxNjQwNjd9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=kcndIMtU4ySmabHdRaK3~gYMahjc1G2q~y3x5Ts-1LIG54DgYTb8RGlISTBdMV4nSSWRxzHUBi~kTxAaErENtgdsK-MonRaoj-vZhik7PfhntWeThrNOWlesypZHxSG5ayrzbCHQz7-ETsXcDsgntcEof4xeQfzxbydyPo8YLVMVJpCThBot7yqZ-e6YsFT6sMqIh7UbKAV0dEkzSLxTJuaA5beyC~WyZzzcplFT1vYgKkQuLoKiOi48i13UgrMXO7sDpNYlVavqKkunvcjo7zooahbgngzSZGHKwZQijiFYftS35-NaolLRvVbfI9oIOBHDeM86ea5oVlDqK3Q3BQ__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.vixen.com/scene/videoimages/107890/mainPortrait/1790846987259/vixen-082526-klo-lo_320x362.jpeg",
+            "placeholder": "https://cdn.vixen.com/scene/videoimages/107890/mainPortrait/1790846987259/vixen-082526-klo-lo_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.vixen.com/scene/videoimages/107890/mainPortrait/1790846987259/vixen-082526-klo-lo_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.vixen.com/scene/videoimages/107890/mainPortrait/1790846987259/vixen-082526-klo-lo_320x362.webp",
+              "placeholder": "https://cdn.vixen.com/scene/videoimages/107890/mainPortrait/1790846987259/vixen-082526-klo-lo_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.vixen.com/scene/videoimages/107890/mainPortrait/1790846987259/vixen-082526-klo-lo_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.vixen.com/scene/videoimages/107890/mainLandscape/1790846987271/vixen-082526-klo-lo_628x352.jpeg",
+            "placeholder": "https://cdn.vixen.com/scene/videoimages/107890/mainLandscape/1790846987271/vixen-082526-klo-lo_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.vixen.com/scene/videoimages/107890/mainLandscape/1790846987271/vixen-082526-klo-lo_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.vixen.com/scene/videoimages/107890/mainLandscape/1790846987271/vixen-082526-klo-lo_628x352.webp",
+              "placeholder": "https://cdn.vixen.com/scene/videoimages/107890/mainLandscape/1790846987271/vixen-082526-klo-lo_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.vixen.com/scene/videoimages/107890/mainLandscape/1790846987271/vixen-082526-klo-lo_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "vixen:beautiful-ashby-fucks-him-good",
       "videoId": "107889",
       "title": "Beautiful Ashby Fucks Him Good",

@@ -97,6 +97,107 @@
   },
   {
     "node": {
+      "id": "blacked:rival-beauties-share-bbc",
+      "videoId": "107888",
+      "title": "Rival Beauties Share BBC",
+      "slug": "rival-beauties-share-bbc",
+      "site": "blacked",
+      "expertReview": {
+        "global": 9.025,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-10-15T16:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": false,
+      "modelsSlugged": [
+        {
+          "name": "Kate Dalia",
+          "slugged": "kate-dalia",
+          "__typename": "Model"
+        },
+        {
+          "name": "Maddie Wren",
+          "slugged": "maddie-wren",
+          "__typename": "Model"
+        },
+        {
+          "name": "Hollywood Cash",
+          "slugged": "hollywood-cash",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107888/1791888873703/107888_WZik92VX1cEVNkBOQx_mGS4cq-d1fH0djSWUa1ZaLrk_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDc4ODgvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjE2NDE2Mn19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=UcQ2QPARAJuhM4lUEUlKuZgVLtGCygJFHSXrTt0uq-VzfJ3b3Ut~FtCDuAMc6lWUhWJFP~7teHsLSjXHgmVQJUWRUeGIt5oZlqmXAYjC4WmNDKc~-Svudvd9IKU360XkBPsMr50dSr-kDXfQ4KeaeJ1id2u4M8iejc6-pyc5rm6275U7OZ-7QksEU2leFCY9HgTQAGnNU9xymXrTAoyHir~8G5kwI1za0FReT~m7SdR9CKqB4wr~ImAU1rgdVcfdgZ0QjsaApQW9RZG70AQQyZKAoLFN6FdS9QFS96qFOjAMj~QFMPo4l9RTrmaU~NBhb9v3raPX2fakY2E86EGy4g__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107888/1791888873703/107888_WZik92VX1cEVNkBOQx_mGS4cq-d1fH0djSWUa1ZaLrk_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDc4ODgvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjE2NDE2Mn19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=UcQ2QPARAJuhM4lUEUlKuZgVLtGCygJFHSXrTt0uq-VzfJ3b3Ut~FtCDuAMc6lWUhWJFP~7teHsLSjXHgmVQJUWRUeGIt5oZlqmXAYjC4WmNDKc~-Svudvd9IKU360XkBPsMr50dSr-kDXfQ4KeaeJ1id2u4M8iejc6-pyc5rm6275U7OZ-7QksEU2leFCY9HgTQAGnNU9xymXrTAoyHir~8G5kwI1za0FReT~m7SdR9CKqB4wr~ImAU1rgdVcfdgZ0QjsaApQW9RZG70AQQyZKAoLFN6FdS9QFS96qFOjAMj~QFMPo4l9RTrmaU~NBhb9v3raPX2fakY2E86EGy4g__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107888/mainPortrait/1791450763707/blacked-rival-beauties-share-bbc_320x362.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107888/mainPortrait/1791450763707/blacked-rival-beauties-share-bbc_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107888/mainPortrait/1791450763707/blacked-rival-beauties-share-bbc_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107888/mainPortrait/1791450763707/blacked-rival-beauties-share-bbc_320x362.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107888/mainPortrait/1791450763707/blacked-rival-beauties-share-bbc_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107888/mainPortrait/1791450763707/blacked-rival-beauties-share-bbc_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107888/mainLandscape/1791450763712/blacked-rival-beauties-share-bbc_628x352.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107888/mainLandscape/1791450763712/blacked-rival-beauties-share-bbc_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107888/mainLandscape/1791450763712/blacked-rival-beauties-share-bbc_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107888/mainLandscape/1791450763712/blacked-rival-beauties-share-bbc_628x352.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107888/mainLandscape/1791450763712/blacked-rival-beauties-share-bbc_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107888/mainLandscape/1791450763712/blacked-rival-beauties-share-bbc_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "blacked:cheating-wives-share-bbc",
       "videoId": "107781",
       "title": "Cheating Wives Share BBC",
