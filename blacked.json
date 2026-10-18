@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "blacked:petite-newcomer-craves-bbc",
+      "videoId": "107911",
+      "title": "Petite Newcomer Craves BBC",
+      "slug": "petite-newcomer-craves-bbc",
+      "site": "blacked",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-10-20T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "CC Wilde",
+          "slugged": "cc-wilde",
+          "__typename": "Model"
+        },
+        {
+          "name": "Hollywood Cash",
+          "slugged": "hollywood-cash",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107911/1791893895930/107911_BX9Z1Ql-vqoel_FA6HO-bbNyXDAeq354lvsh1EnonbM_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDc5MTEvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjM0MDc2Nn19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=jYpOFar2e8GbNwpSacxQaR7yYJj8rbc7FtKe~yTNTwQkOGUC7BnmBMazWI9sDFmHHzTRNIENQf4gzy0VY3rXphreF2zlzewvI4ujmp9EfunRoXTgqu0RmnaatsbLQSPOtG5gIQxhMQWQ~tbvNl64lQ-kbL0HsT9Y6uFsqKTvI7jMB4nDxX2-gWFs7qwxsyjIp-VDyGoGz3lzfuF1slE1t7AhmMUG7pCKlZDhXUFh1z76FsvA80w-XzRSMSe~sgf9Sl3jv-e8SCd2ENTrUhzRlMoibMRgtLbfAfTldIg3XbTSVhNtmZyPWfY727zDpfZJ1EwNzpF34SDj7v1pJFo4vw__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107911/1791893895929/107911_BX9Z1Ql-vqoel_FA6HO-bbNyXDAeq354lvsh1EnonbM_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDc5MTEvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjM0MDc2Nn19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=jYpOFar2e8GbNwpSacxQaR7yYJj8rbc7FtKe~yTNTwQkOGUC7BnmBMazWI9sDFmHHzTRNIENQf4gzy0VY3rXphreF2zlzewvI4ujmp9EfunRoXTgqu0RmnaatsbLQSPOtG5gIQxhMQWQ~tbvNl64lQ-kbL0HsT9Y6uFsqKTvI7jMB4nDxX2-gWFs7qwxsyjIp-VDyGoGz3lzfuF1slE1t7AhmMUG7pCKlZDhXUFh1z76FsvA80w-XzRSMSe~sgf9Sl3jv-e8SCd2ENTrUhzRlMoibMRgtLbfAfTldIg3XbTSVhNtmZyPWfY727zDpfZJ1EwNzpF34SDj7v1pJFo4vw__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107911/mainPortrait/1791817504802/blacked-080626-cc-wie_320x362.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107911/mainPortrait/1791817504802/blacked-080626-cc-wie_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107911/mainPortrait/1791817504802/blacked-080626-cc-wie_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107911/mainPortrait/1791817504802/blacked-080626-cc-wie_320x362.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107911/mainPortrait/1791817504802/blacked-080626-cc-wie_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107911/mainPortrait/1791817504802/blacked-080626-cc-wie_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107911/mainLandscape/1791817504813/blacked-080626-cc-wie_628x352.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107911/mainLandscape/1791817504813/blacked-080626-cc-wie_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107911/mainLandscape/1791817504813/blacked-080626-cc-wie_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107911/mainLandscape/1791817504813/blacked-080626-cc-wie_628x352.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107911/mainLandscape/1791817504813/blacked-080626-cc-wie_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107911/mainLandscape/1791817504813/blacked-080626-cc-wie_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "blacked:bbc-hungry-blonde-gets-what-she-wants",
       "videoId": "107895",
       "title": "BBC Hungry Blonde Gets What She Wants",
