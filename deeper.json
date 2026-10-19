@@ -1,6 +1,107 @@
 [
   {
     "node": {
+      "id": "deeper:waking-the-dead",
+      "videoId": "107909",
+      "title": "Waking The Dead",
+      "slug": "waking-the-dead",
+      "site": "deeper",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-10-22T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Leana Lovings",
+          "slugged": "leana-lovings",
+          "__typename": "Model"
+        },
+        {
+          "name": "rose carter",
+          "slugged": "rose-carter",
+          "__typename": "Model"
+        },
+        {
+          "name": "Jimmy Bud",
+          "slugged": "jimmy-bud",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107909/1791895964768/107909_KHcIl-NkRzHrq4U4nGnSFiqBcK29AmtoqKUxLnz9N-M_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzkwOS8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkyNDI2ODc3fX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=KGrQ2Ysnkvmp68nrykQZNQF~VmS-HcYrmjZzh8asyE2kiz3bdAt355WnybqdB~fT0c0QZ2I~gKj73z716XKotTkC-OddswRLEzxBloo9347Zp8yhzzIxtcyufcqtoKd-DcKvMVNT6EHQJ04RDySvCeJ0tP0kF8s~FQm26WpXYaemsQRGdR3UQsd3MdbMRR65Jtpb1TGMHUdHI1-ow0Q~SixlMTBtAN2aaexcBCeTBn3ThmyA0vFQk58~6-dAx4dAIBfx94T44fZnn5iTCLgk2zA4g2mA4~Q1XAt5MQMlh9Har3yQSuB4Otg4F-YsHXafVxK0ROHIQMtdnfCVO8FQ8A__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107909/1791895964767/107909_KHcIl-NkRzHrq4U4nGnSFiqBcK29AmtoqKUxLnz9N-M_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzkwOS8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkyNDI2ODc3fX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=KGrQ2Ysnkvmp68nrykQZNQF~VmS-HcYrmjZzh8asyE2kiz3bdAt355WnybqdB~fT0c0QZ2I~gKj73z716XKotTkC-OddswRLEzxBloo9347Zp8yhzzIxtcyufcqtoKd-DcKvMVNT6EHQJ04RDySvCeJ0tP0kF8s~FQm26WpXYaemsQRGdR3UQsd3MdbMRR65Jtpb1TGMHUdHI1-ow0Q~SixlMTBtAN2aaexcBCeTBn3ThmyA0vFQk58~6-dAx4dAIBfx94T44fZnn5iTCLgk2zA4g2mA4~Q1XAt5MQMlh9Har3yQSuB4Otg4F-YsHXafVxK0ROHIQMtdnfCVO8FQ8A__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107909/mainPortrait/1791536130996/deeper-033126-lea-lov_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107909/mainPortrait/1791536130996/deeper-033126-lea-lov_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107909/mainPortrait/1791536130996/deeper-033126-lea-lov_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107909/mainPortrait/1791536130996/deeper-033126-lea-lov_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107909/mainPortrait/1791536130996/deeper-033126-lea-lov_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107909/mainPortrait/1791536130996/deeper-033126-lea-lov_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107909/mainLandscape/1791536130986/deeper-033126-lea-lov_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107909/mainLandscape/1791536130986/deeper-033126-lea-lov_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107909/mainLandscape/1791536130986/deeper-033126-lea-lov_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107909/mainLandscape/1791536130986/deeper-033126-lea-lov_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107909/mainLandscape/1791536130986/deeper-033126-lea-lov_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107909/mainLandscape/1791536130986/deeper-033126-lea-lov_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:daydream",
       "videoId": "107898",
       "title": "Daydream",
