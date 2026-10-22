@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "vixen:perfect-body-chick-takes-it-deep",
+      "videoId": "107919",
+      "title": "Perfect Body Chick Takes It Deep",
+      "slug": "perfect-body-chick-takes-it-deep",
+      "site": "vixen",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-10-24T17:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Scarlett Alexis",
+          "slugged": "scarlett-alexis",
+          "__typename": "Model"
+        },
+        {
+          "name": "Vince Karter",
+          "slugged": "vince-karter",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.vixen.com/previewvideos/107919/1792140898892/107919_Hd_oD8zvmIr1sdESbCsMZgHqapvxf9_KoJPSjheSWvw_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udml4ZW4uY29tL3ByZXZpZXd2aWRlb3MvMTA3OTE5LyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI2ODgyMzN9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=Djxj1hAC4elAmXzuZs~RI4z6AMLJcRJX3RxohKb5W7GujGynn7qZAto4L563lELHy3Y6FAJm9t6eVuw9Z7cWSy6Z9FyZeWL3-TcbWNHihdIdLERba9vAiQrhTfpt2rwW7yT7bokLW2WcHagN7ENXXrjzE30keiICSr~oHA9ccG4poYw7IA0k9E2h6mSu4~8EX8M9U8KQhb2Jcq0giLszc~fgfYOQua2tFqxCKa0EXfFaijjmGi1w5DGdMX-nUzmuGp7QoWLR2CwWQ8qQsA9Z5CaiyubeysV5MQtq6lUEy5Z0w9Pg5Bsu9F-Zymdy9N9aDuP0IOl5KKdblHUGB8533w__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.vixen.com/previewvideos/107919/1792140898892/107919_Hd_oD8zvmIr1sdESbCsMZgHqapvxf9_KoJPSjheSWvw_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4udml4ZW4uY29tL3ByZXZpZXd2aWRlb3MvMTA3OTE5LyovKl8qUC5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI2ODgyMzN9fX1dfQ__&Key-Pair-Id=K18SM53O8A1CFO&Signature=Djxj1hAC4elAmXzuZs~RI4z6AMLJcRJX3RxohKb5W7GujGynn7qZAto4L563lELHy3Y6FAJm9t6eVuw9Z7cWSy6Z9FyZeWL3-TcbWNHihdIdLERba9vAiQrhTfpt2rwW7yT7bokLW2WcHagN7ENXXrjzE30keiICSr~oHA9ccG4poYw7IA0k9E2h6mSu4~8EX8M9U8KQhb2Jcq0giLszc~fgfYOQua2tFqxCKa0EXfFaijjmGi1w5DGdMX-nUzmuGp7QoWLR2CwWQ8qQsA9Z5CaiyubeysV5MQtq6lUEy5Z0w9Pg5Bsu9F-Zymdy9N9aDuP0IOl5KKdblHUGB8533w__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.vixen.com/scene/videoimages/107919/mainPortrait/1792140263487/vixen-090426-sctt-ale_320x362.jpeg",
+            "placeholder": "https://cdn.vixen.com/scene/videoimages/107919/mainPortrait/1792140263487/vixen-090426-sctt-ale_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.vixen.com/scene/videoimages/107919/mainPortrait/1792140263487/vixen-090426-sctt-ale_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.vixen.com/scene/videoimages/107919/mainPortrait/1792140263487/vixen-090426-sctt-ale_320x362.webp",
+              "placeholder": "https://cdn.vixen.com/scene/videoimages/107919/mainPortrait/1792140263487/vixen-090426-sctt-ale_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.vixen.com/scene/videoimages/107919/mainPortrait/1792140263487/vixen-090426-sctt-ale_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.vixen.com/scene/videoimages/107919/mainLandscape/1792140263511/vixen-090426-sctt-ale_628x352.jpeg",
+            "placeholder": "https://cdn.vixen.com/scene/videoimages/107919/mainLandscape/1792140263511/vixen-090426-sctt-ale_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.vixen.com/scene/videoimages/107919/mainLandscape/1792140263511/vixen-090426-sctt-ale_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.vixen.com/scene/videoimages/107919/mainLandscape/1792140263511/vixen-090426-sctt-ale_628x352.webp",
+              "placeholder": "https://cdn.vixen.com/scene/videoimages/107919/mainLandscape/1792140263511/vixen-090426-sctt-ale_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.vixen.com/scene/videoimages/107919/mainLandscape/1792140263511/vixen-090426-sctt-ale_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "vixen:cheating-cutie-rides-cock",
       "videoId": "107915",
       "title": "Cheating Cutie Rides Cock",
