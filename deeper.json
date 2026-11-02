@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "deeper:midterm",
+      "videoId": "107930",
+      "title": "Midterm",
+      "slug": "midterm",
+      "site": "deeper",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-11-05T18:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Hazel Heart",
+          "slugged": "hazel-heart",
+          "__typename": "Model"
+        },
+        {
+          "name": "Dan Damage",
+          "slugged": "dan-damage",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107930/1793110807491/107930_y-NR0vOV7HHV3MNBuktucgzxlCE5T0RH9w6m7GXwpwc_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzkzMC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjQxNDQ4fX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=Fc3GIHjNNI4s0NK6s5JVDjLMyIlyeG7wJAV0yEZlud8ntMRLLWtZYLMzIkek52h~GHNnp5UHt2gI0qR6ZB-htGk0JIhBohhvLCwBRkINuKo8KAZSlIQbSNU58pgmjW84~N~PZZITeAJeMz~bO-UD1L2SGB8itUWODemqGR896WLEigJp8IeWrr-Loc6gQ5d~yYovVbUAEDhRF4p8GTEW43RAXv0OeNEkrq94zSzmNmHi~2lK-QxsT0CJOAibUIurPADAjJZomfcOhlmEJOo-wVRENBwxclkBNUTYnKjsnOY1-apvZTvvig35FpnyT3KT9jqatDFrR8jaZewVf2mTJA__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107930/1793110807490/107930_y-NR0vOV7HHV3MNBuktucgzxlCE5T0RH9w6m7GXwpwc_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzkzMC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzNjQxNDQ4fX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=Fc3GIHjNNI4s0NK6s5JVDjLMyIlyeG7wJAV0yEZlud8ntMRLLWtZYLMzIkek52h~GHNnp5UHt2gI0qR6ZB-htGk0JIhBohhvLCwBRkINuKo8KAZSlIQbSNU58pgmjW84~N~PZZITeAJeMz~bO-UD1L2SGB8itUWODemqGR896WLEigJp8IeWrr-Loc6gQ5d~yYovVbUAEDhRF4p8GTEW43RAXv0OeNEkrq94zSzmNmHi~2lK-QxsT0CJOAibUIurPADAjJZomfcOhlmEJOo-wVRENBwxclkBNUTYnKjsnOY1-apvZTvvig35FpnyT3KT9jqatDFrR8jaZewVf2mTJA__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107930/mainPortrait/1793185413501/deeper-midterm_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107930/mainPortrait/1793185413501/deeper-midterm_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107930/mainPortrait/1793185413501/deeper-midterm_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107930/mainPortrait/1793185413501/deeper-midterm_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107930/mainPortrait/1793185413501/deeper-midterm_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107930/mainPortrait/1793185413501/deeper-midterm_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107930/mainLandscape/1793185413525/deeper-midterm_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107930/mainLandscape/1793185413525/deeper-midterm_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107930/mainLandscape/1793185413525/deeper-midterm_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107930/mainLandscape/1793185413525/deeper-midterm_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107930/mainLandscape/1793185413525/deeper-midterm_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107930/mainLandscape/1793185413525/deeper-midterm_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:memento-mori",
       "videoId": "107916",
       "title": "Memento Mori",
