@@ -1,6 +1,107 @@
 [
   {
     "node": {
+      "id": "blacked:petite-blonde-bbc-spit-roast",
+      "videoId": "107934",
+      "title": "Petite Blonde BBC Spit Roast",
+      "slug": "petite-blonde-bbc-spit-roast",
+      "site": "blacked",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-11-09T18:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Sky Wonderland",
+          "slugged": "sky-wonderland",
+          "__typename": "Model"
+        },
+        {
+          "name": "Mannie Coco",
+          "slugged": "mannie-coco",
+          "__typename": "Model"
+        },
+        {
+          "name": "Sheem",
+          "slugged": "sheem",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107934/1792749477857/107934_DN4fi03gt5D09qx3TWvOnCohLzfT9HwqnAvqrnQMRMs_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDc5MzQvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDA3NDE5M319fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=D99RWXkIp8jaS2uZX5Vm90dYo1AUDaWhSjCtezRhFE03-Hh~ptTV0HKn8oL7sxTapCXlAL~BvrlLUn2~fceiH3IZXnhXuBoGeI5HgthcrRULUwndAMO-oN3ZLWQD7quG0dV9J-u100330PLOZlwwFz6UxNNg~VuRDl2o7ClgmveDnPF71gh-kHvc69KjJrMUNOyGhGSbac~UP-qzFpmKOwhnEuMtdF5OC77Jy~y1KZcx3GZ3thI8EQ5gbUtV~Dl7PlT66poBC9b~S1S~R~MRzYsEH7DYKZzbUIsakZ5fMeknp9am7AE7ytZiMnNMa21WPBOQ3uquYeup7~0ADjmQxQ__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blacked.com/previewvideos/107934/1792749477857/107934_DN4fi03gt5D09qx3TWvOnCohLzfT9HwqnAvqrnQMRMs_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDc5MzQvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDA3NDE5M319fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=D99RWXkIp8jaS2uZX5Vm90dYo1AUDaWhSjCtezRhFE03-Hh~ptTV0HKn8oL7sxTapCXlAL~BvrlLUn2~fceiH3IZXnhXuBoGeI5HgthcrRULUwndAMO-oN3ZLWQD7quG0dV9J-u100330PLOZlwwFz6UxNNg~VuRDl2o7ClgmveDnPF71gh-kHvc69KjJrMUNOyGhGSbac~UP-qzFpmKOwhnEuMtdF5OC77Jy~y1KZcx3GZ3thI8EQ5gbUtV~Dl7PlT66poBC9b~S1S~R~MRzYsEH7DYKZzbUIsakZ5fMeknp9am7AE7ytZiMnNMa21WPBOQ3uquYeup7~0ADjmQxQ__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107934/mainPortrait/1793900879296/blacked-petite-blonde-bbc-spit-roast_320x362.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107934/mainPortrait/1793900879296/blacked-petite-blonde-bbc-spit-roast_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107934/mainPortrait/1793900879296/blacked-petite-blonde-bbc-spit-roast_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107934/mainPortrait/1793900879296/blacked-petite-blonde-bbc-spit-roast_320x362.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107934/mainPortrait/1793900879296/blacked-petite-blonde-bbc-spit-roast_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107934/mainPortrait/1793900879296/blacked-petite-blonde-bbc-spit-roast_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/107934/mainLandscape/1793900879297/blacked-petite-blonde-bbc-spit-roast_628x352.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/107934/mainLandscape/1793900879297/blacked-petite-blonde-bbc-spit-roast_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/107934/mainLandscape/1793900879297/blacked-petite-blonde-bbc-spit-roast_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/107934/mainLandscape/1793900879297/blacked-petite-blonde-bbc-spit-roast_628x352.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/107934/mainLandscape/1793900879297/blacked-petite-blonde-bbc-spit-roast_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/107934/mainLandscape/1793900879297/blacked-petite-blonde-bbc-spit-roast_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "blacked:fit-dancer-filled-up",
       "videoId": "107933",
       "title": "Fit Dancer Filled Up",
