@@ -1,6 +1,107 @@
 [
   {
     "node": {
+      "id": "deeper:graceful-deportment",
+      "videoId": "107938",
+      "title": "Graceful Deportment",
+      "slug": "graceful-deportment",
+      "site": "deeper",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-11-12T18:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Isa Bella",
+          "slugged": "isa-bella",
+          "__typename": "Model"
+        },
+        {
+          "name": "Alex Jones",
+          "slugged": "alex-jones",
+          "__typename": "Model"
+        },
+        {
+          "name": "Jax Slayher",
+          "slugged": "jax-slayher",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107938/1793882738231/107938_ptviJVYvRxWrt2-beJWtLJQ8r1ql1fNuoh0eB2BWRsY_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzkzOC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0MjQ2NzcyfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=S2pJf1kWi5oXKiPOtviuVLzOXdkph0ED-JqMUFDk-kLUzL9iDYcqjlao7369bjl4GpkJAun~e97mSYhl2971FsDtaX4kvgHNHE4oDCDSpbNDKXEwv2lbyCazx991u-ZkSVgPg8~aby5aS8~EDxESbG6jYqKic60a-CvYKCsxruW-~stdqa3M0ExQ0DtsNsju4l2tgMt1FC1dNNzn3JwRaytSn8w9ueolLJpJ0A7dguzC4sI1bjKqYDJWrfzHbCRjr~i05UJeuwZRhaqd9fb-kKw7Telrbi4bCcvF~T1tczkNizpRI36Y88FTAcizxbi0Cuxp7jfHollVLnky5mir3Q__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/107938/1793883025392/107938_ptviJVYvRxWrt2-beJWtLJQ8r1ql1fNuoh0eB2BWRsY_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwNzkzOC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk0MjQ2NzcyfX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=S2pJf1kWi5oXKiPOtviuVLzOXdkph0ED-JqMUFDk-kLUzL9iDYcqjlao7369bjl4GpkJAun~e97mSYhl2971FsDtaX4kvgHNHE4oDCDSpbNDKXEwv2lbyCazx991u-ZkSVgPg8~aby5aS8~EDxESbG6jYqKic60a-CvYKCsxruW-~stdqa3M0ExQ0DtsNsju4l2tgMt1FC1dNNzn3JwRaytSn8w9ueolLJpJ0A7dguzC4sI1bjKqYDJWrfzHbCRjr~i05UJeuwZRhaqd9fb-kKw7Telrbi4bCcvF~T1tczkNizpRI36Y88FTAcizxbi0Cuxp7jfHollVLnky5mir3Q__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107938/mainPortrait/1793871582432/deeper-071026-is-bel_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107938/mainPortrait/1793871582432/deeper-071026-is-bel_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107938/mainPortrait/1793871582432/deeper-071026-is-bel_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107938/mainPortrait/1793871582432/deeper-071026-is-bel_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107938/mainPortrait/1793871582432/deeper-071026-is-bel_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107938/mainPortrait/1793871582432/deeper-071026-is-bel_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/107938/mainLandscape/1793871582452/deeper-071026-is-bel_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/107938/mainLandscape/1793871582452/deeper-071026-is-bel_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/107938/mainLandscape/1793871582452/deeper-071026-is-bel_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/107938/mainLandscape/1793871582452/deeper-071026-is-bel_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/107938/mainLandscape/1793871582452/deeper-071026-is-bel_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/107938/mainLandscape/1793871582452/deeper-071026-is-bel_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:midterm",
       "videoId": "107930",
       "title": "Midterm",
