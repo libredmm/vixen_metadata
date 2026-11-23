@@ -1,6 +1,107 @@
 [
   {
     "node": {
+      "id": "deeper:epiphany",
+      "videoId": "108000",
+      "title": "Epiphany",
+      "slug": "epiphany",
+      "site": "deeper",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-11-26T18:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Violet Myers",
+          "slugged": "violet-myers",
+          "__typename": "Model"
+        },
+        {
+          "name": "Melztube",
+          "slugged": "melztube",
+          "__typename": "Model"
+        },
+        {
+          "name": "Milan Ponjevic",
+          "slugged": "milan-ponjevic",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/previewvideos/108000/1795002216294/108000_7SKoZdJlxpVvot3595SB1Rw-HuN9iqB9aiSrXX94HWc_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwODAwMC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NDUyNDk2fX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=ajw~RL9y6f987cuNzBk00DXs4RQPrMa7ncqG8m38NRUU1ABhGMNVxw12u0TktQPSvXzqx2b0m1QqY0O89QEV1UivnocaMfe4TLzzNwObzzJG0Au7Z6o9bjVZgS9IvBD4EoO8~R3GvRktia339IN~S27yy2I4pO~LXuho~Rwv9FPMaLvZZGqbC1bA0p4Msm5mZ3TAU78hD2q56R3xMbmu-NzW5a23GUwX1Tx8XEyXN9wpWV6hxDjmPL5EsPyyfOLdlAxKw06PP4zH4DpZAbFLeAYSB3X~TrPKB9TQMvVI2ACc1v3FuyXpg~3fN35eaKI71t~7MpBzhcEgfCeUs~LjJw__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.deeper.com/previewvideos/108000/1795002216293/108000_7SKoZdJlxpVvot3595SB1Rw-HuN9iqB9aiSrXX94HWc_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZGVlcGVyLmNvbS9wcmV2aWV3dmlkZW9zLzEwODAwMC8qLypfKlAubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1NDUyNDk2fX19XX0_&Key-Pair-Id=K18SM53O8A1CFO&Signature=ajw~RL9y6f987cuNzBk00DXs4RQPrMa7ncqG8m38NRUU1ABhGMNVxw12u0TktQPSvXzqx2b0m1QqY0O89QEV1UivnocaMfe4TLzzNwObzzJG0Au7Z6o9bjVZgS9IvBD4EoO8~R3GvRktia339IN~S27yy2I4pO~LXuho~Rwv9FPMaLvZZGqbC1bA0p4Msm5mZ3TAU78hD2q56R3xMbmu-NzW5a23GUwX1Tx8XEyXN9wpWV6hxDjmPL5EsPyyfOLdlAxKw06PP4zH4DpZAbFLeAYSB3X~TrPKB9TQMvVI2ACc1v3FuyXpg~3fN35eaKI71t~7MpBzhcEgfCeUs~LjJw__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/108000/mainPortrait/1795002132297/deeper-091526-vet-ms_320x362.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/108000/mainPortrait/1795002132297/deeper-091526-vet-ms_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/108000/mainPortrait/1795002132297/deeper-091526-vet-ms_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/108000/mainPortrait/1795002132297/deeper-091526-vet-ms_320x362.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/108000/mainPortrait/1795002132297/deeper-091526-vet-ms_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/108000/mainPortrait/1795002132297/deeper-091526-vet-ms_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.deeper.com/scene/videoimages/108000/mainLandscape/1795002132319/deeper-091526-vet-ms_628x352.jpeg",
+            "placeholder": "https://cdn.deeper.com/scene/videoimages/108000/mainLandscape/1795002132319/deeper-091526-vet-ms_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.deeper.com/scene/videoimages/108000/mainLandscape/1795002132319/deeper-091526-vet-ms_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.deeper.com/scene/videoimages/108000/mainLandscape/1795002132319/deeper-091526-vet-ms_628x352.webp",
+              "placeholder": "https://cdn.deeper.com/scene/videoimages/108000/mainLandscape/1795002132319/deeper-091526-vet-ms_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.deeper.com/scene/videoimages/108000/mainLandscape/1795002132319/deeper-091526-vet-ms_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "deeper:gear-shift",
       "videoId": "107939",
       "title": "Gear Shift",
