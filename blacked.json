@@ -1,6 +1,102 @@
 [
   {
     "node": {
+      "id": "blacked:petite-baddie-takes-on-jason-luv",
+      "videoId": "108456",
+      "title": "Petite Baddie Takes On Jason Luv",
+      "slug": "petite-baddie-takes-on-jason-luv",
+      "site": "blacked",
+      "expertReview": {
+        "global": 10,
+        "__typename": "VideoExpertReview"
+      },
+      "releaseDate": "2026-11-29T18:30:00.000Z",
+      "isExclusive": null,
+      "guestUserScene": false,
+      "isUpcoming": true,
+      "modelsSlugged": [
+        {
+          "name": "Ruth Lee",
+          "slugged": "ruth-lee",
+          "__typename": "Model"
+        },
+        {
+          "name": "Jason Luv",
+          "slugged": "jason-luv",
+          "__typename": "Model"
+        }
+      ],
+      "previews": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/previewvideos/108456/1795515315273/108456_VSpyaJ7xj8jokPA1eJ7r1xL8X4x3KxuG5-XprA2o28A_362P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDg0NTYvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTc5ODQyMX19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=QFakiVqYA6cNUA8x~imWCsriDV5UdQPvyEGb5iRAzzrbsduQL60MfkXnS149RK~fOsMgaFyhJH32RS4I2SpYIvNZbbUQTkIVIxvv1W2sCt6Kmr57FOl6Dww9Q5ySBoyRmCx14~1TIUPaFmZ63wchHUKLwp6srDF6qnZAJSeL8xx1SNBEP3Ez7jcKTCugxJqOslZ6VRLLQksxeqbqSp~vGyL60N8QOt5Q2vZuVz6kfzV3RekOpOY~fxFckpvmbZe7n~rD94GBg7qeN3T5I8FTb2gVKEfaLHS19d17-cQlgOtjzDhAPrED8GVe0UglT9zefd7NeGDEh2l0LgYiy45OlA__",
+            "width": 320,
+            "height": 362,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          },
+          {
+            "src": "https://cdn.blacked.com/previewvideos/108456/1795682502797/108456_Db7B4rrv1K75TMVn3H8iuXSR-BNgPRtXu6nNfOeOSow_353P.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uYmxhY2tlZC5jb20vcHJldmlld3ZpZGVvcy8xMDg0NTYvKi8qXypQLm1wNCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTc5ODQyMX19fV19&Key-Pair-Id=K18SM53O8A1CFO&Signature=QFakiVqYA6cNUA8x~imWCsriDV5UdQPvyEGb5iRAzzrbsduQL60MfkXnS149RK~fOsMgaFyhJH32RS4I2SpYIvNZbbUQTkIVIxvv1W2sCt6Kmr57FOl6Dww9Q5ySBoyRmCx14~1TIUPaFmZ63wchHUKLwp6srDF6qnZAJSeL8xx1SNBEP3Ez7jcKTCugxJqOslZ6VRLLQksxeqbqSp~vGyL60N8QOt5Q2vZuVz6kfzV3RekOpOY~fxFckpvmbZe7n~rD94GBg7qeN3T5I8FTb2gVKEfaLHS19d17-cQlgOtjzDhAPrED8GVe0UglT9zefd7NeGDEh2l0LgYiy45OlA__",
+            "width": 627,
+            "height": 353,
+            "type": "video/mp4",
+            "__typename": "Preview"
+          }
+        ],
+        "__typename": "Previews"
+      },
+      "images": {
+        "listing": [
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/108456/mainPortrait/1795514826210/blacked-092126-rh-chrri_320x362.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/108456/mainPortrait/1795514826210/blacked-092126-rh-chrri_29x33_q85.jpeg",
+            "width": 320,
+            "height": 362,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/108456/mainPortrait/1795514826210/blacked-092126-rh-chrri_640x724.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/108456/mainPortrait/1795514826210/blacked-092126-rh-chrri_320x362.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/108456/mainPortrait/1795514826210/blacked-092126-rh-chrri_29x33_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/108456/mainPortrait/1795514826210/blacked-092126-rh-chrri_640x724.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn.blacked.com/scene/videoimages/108456/mainLandscape/1795514826220/blacked-092126-rh-chrri_628x352.jpeg",
+            "placeholder": "https://cdn.blacked.com/scene/videoimages/108456/mainLandscape/1795514826220/blacked-092126-rh-chrri_60x34_q85.jpeg",
+            "width": 628,
+            "height": 352,
+            "highdpi": {
+              "double": "https://cdn.blacked.com/scene/videoimages/108456/mainLandscape/1795514826220/blacked-092126-rh-chrri_1256x704.jpeg",
+              "__typename": "HighdpiSrc"
+            },
+            "webp": {
+              "src": "https://cdn.blacked.com/scene/videoimages/108456/mainLandscape/1795514826220/blacked-092126-rh-chrri_628x352.webp",
+              "placeholder": "https://cdn.blacked.com/scene/videoimages/108456/mainLandscape/1795514826220/blacked-092126-rh-chrri_60x34_q85.webp",
+              "highdpi": {
+                "double": "https://cdn.blacked.com/scene/videoimages/108456/mainLandscape/1795514826220/blacked-092126-rh-chrri_1256x704.webp",
+                "__typename": "HighdpiSrc"
+              },
+              "__typename": "Image"
+            },
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "Images"
+      },
+      "__typename": "Video"
+    },
+    "cursor": null,
+    "__typename": "VideoEdge"
+  },
+  {
+    "node": {
       "id": "blacked:blonde-beauty-takes-6-cocks-in-first-gangbang",
       "videoId": "107995",
       "title": "Blonde Beauty Takes 6 Cocks In First Gangbang",
